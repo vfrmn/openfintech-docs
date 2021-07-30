@@ -2357,7 +2357,6 @@
 |![xbox-live-gift-card-us-10](https://static.openfintech.io/payout_methods/xbox-live-gift-card-us-10/logo.png?w=400&c=v0.59.26#w24) |[**Xbox Live Gift Card (US) $ 10**](xbox-live-gift-card-us-10/)|`xbox-live-gift-card-us-10`| 
 |![xbyte](https://static.openfintech.io/payout_methods/xbyte/logo.png?w=400&c=v0.59.26#w24) |[**XBYTE**](xbyte/)|`xbyte`| 
 |![xpate](https://static.openfintech.io/payout_methods/xpate/logo.svg?w=400&c=v0.59.26#w24) |[**Xpate**](xpate/)|`xpate`| 
-|![xpate_test](https://static.openfintech.io/payout_methods/xpate_test/logo.svg?w=400&c=v0.59.26#w24) |[**Xpate**](xpate_test/)|`xpate_test`| 
 |![xtra-tv](https://static.openfintech.io/payout_methods/xtra-tv/logo.png?w=400&c=v0.59.26#w24) |[**XTRA TV**](xtra-tv/)|`xtra-tv`| 
 || **Y** ||
 |![yandexmoney](https://static.openfintech.io/payout_methods/yandexmoney/logo.svg?w=400&c=v0.59.26#w24) |[**Yandex.Money**](yandexmoney/)|`yandexmoney`| 
