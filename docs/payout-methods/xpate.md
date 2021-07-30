@@ -11,7 +11,7 @@
 :	[RU] Xpate 
 :	[UK] Xpate 
  
-**Category:** `payment_card` 
+**Category:** `bank_transfer` 
  
 
 ## Images 
@@ -52,6 +52,6 @@ The list of [Payout Services](/payout-services/) based on the _Xpate_
   },
   "description":null,
   "countries":null,
-  "category":"payment_card"
+  "category":"bank_transfer"
 }
 ```  
