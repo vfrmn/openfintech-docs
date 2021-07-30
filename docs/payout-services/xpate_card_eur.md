@@ -14,6 +14,7 @@
  
 :	[EN] Xpate 
 :	[RU] Xpate 
+:	[UK] Xpate 
  
 **Amount limits:** from `0.01` to `100000` EUR 
 

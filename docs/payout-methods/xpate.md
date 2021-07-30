@@ -9,9 +9,9 @@
  
 :	[EN] Xpate 
 :	[RU] Xpate 
-:	[UA] Xpate 
+:	[UK] Xpate 
  
-**Category:** `digital_wallet` 
+**Category:** `payment_card` 
  
 
 ## Images 
@@ -48,10 +48,10 @@ The list of [Payout Services](/payout-services/) based on the _Xpate_
   "name":{
     "en":"Xpate",
     "ru":"Xpate",
-    "ua":"Xpate"
+    "uk":"Xpate"
   },
   "description":null,
   "countries":null,
-  "category":"digital_wallet"
+  "category":"payment_card"
 }
 ```  
