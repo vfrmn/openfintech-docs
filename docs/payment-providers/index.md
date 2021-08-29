@@ -194,6 +194,7 @@
 |![ebillingsolutions](https://static.openfintech.io/payment_providers/ebillingsolutions/logo.png?w=600&c=v0.59.26#w100) |[**EBS**](ebillingsolutions/)|`ebillingsolutions`| 
 |![ecardon](https://static.openfintech.io/payment_providers/ecardon/logo.png?w=600&c=v0.59.26#w100) |[**ecardon payments**](ecardon/)|`ecardon`| 
 |![ecardsa](https://static.openfintech.io/payment_providers/ecardsa/logo.svg?w=600&c=v0.59.26#w100) |[**eCard**](ecardsa/)|`ecardsa`| 
+|![ecascad](https://static.openfintech.io/payment_providers/ecascad/logo.svg?w=600&c=v0.59.26#w100) |[**e.Cascad**](ecascad/)|`ecascad`| 
 |![ecobanq](https://static.openfintech.io/payment_providers/ecobanq/logo.png?w=600&c=v0.59.26#w100) |[**Ecobanq**](ecobanq/)|`ecobanq`| 
 |![ecomcharge](https://static.openfintech.io/payment_providers/ecomcharge/logo.png?w=600&c=v0.59.26#w100) |[**eComCharge**](ecomcharge/)|`ecomcharge`| 
 |![ecommpay](https://static.openfintech.io/payment_providers/ecommpay/logo.png?w=600&c=v0.59.26#w100) |[**ECommPay**](ecommpay/)|`ecommpay`| 
@@ -586,6 +587,7 @@
 |![smilepayments](https://static.openfintech.io/payment_providers/smilepayments/logo.png?w=600&c=v0.59.26#w100) |[**Smile Payments**](smilepayments/)|`smilepayments`| 
 |![soeasypay](https://static.openfintech.io/payment_providers/soeasypay/logo.png?w=600&c=v0.59.26#w100) |[**SoEasyPay**](soeasypay/)|`soeasypay`| 
 |![specializedprocessingsolutions](https://static.openfintech.io/payment_providers/specializedprocessingsolutions/logo.png?w=600&c=v0.59.26#w100) |[**Specialized Processing Solutions**](specializedprocessingsolutions/)|`specializedprocessingsolutions`| 
+|![spoynt](https://static.openfintech.io/payment_providers/spoynt/logo.svg?w=600&c=v0.59.26#w100) |[**Spoynt**](spoynt/)|`spoynt`| 
 |![spryng](https://static.openfintech.io/payment_providers/spryng/logo.png?w=600&c=v0.59.26#w100) |[**Spryng Payments**](spryng/)|`spryng`| 
 |![square](https://static.openfintech.io/payment_providers/square/logo.svg?w=600&c=v0.59.26#w100) |[**Square**](square/)|`square`| 
 |![start2pay](https://static.openfintech.io/payment_providers/start2pay/logo.png?w=600&c=v0.59.26#w100) |[**Start2Pay**](start2pay/)|`start2pay`| 
@@ -614,6 +616,7 @@
 |![transact](https://static.openfintech.io/payment_providers/transact/logo.png?w=600&c=v0.59.26#w100) |[**Transact Europe**](transact/)|`transact`| 
 |![transact24](https://static.openfintech.io/payment_providers/transact24/logo.png?w=600&c=v0.59.26#w100) |[**Transact24**](transact24/)|`transact24`| 
 |![transactpro](https://static.openfintech.io/payment_providers/transactpro/logo.png?w=600&c=v0.59.26#w100) |[**Transact Pro**](transactpro/)|`transactpro`| 
+|![transactworld](https://static.openfintech.io/payment_providers/transactworld/logo.png?w=600&c=v0.59.26#w100) |[**Transact World**](transactworld/)|`transactworld`| 
 |![transecute](https://static.openfintech.io/payment_providers/transecute/logo.png?w=600&c=v0.59.26#w100) |[**Transecute**](transecute/)|`transecute`| 
 |![transferhub](https://static.openfintech.io/payment_providers/transferhub/logo.svg?w=600&c=v0.59.26#w100) |[**TransferHub**](transferhub/)|`transferhub`| 
 |![tranzzo](https://static.openfintech.io/payment_providers/tranzzo/logo.svg?w=600&c=v0.59.26#w100) |[**Tranzzo**](tranzzo/)|`tranzzo`| 

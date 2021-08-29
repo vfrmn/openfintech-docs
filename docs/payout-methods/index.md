@@ -287,6 +287,7 @@
 |![e-rozstrochka](https://static.openfintech.io/payout_methods/e-rozstrochka/logo.png?w=400&c=v0.59.26#w24) |[**E-Installment**](e-rozstrochka/)|`e-rozstrochka`| 
 |![ebay-gift-card-25-us](https://static.openfintech.io/payout_methods/ebay-gift-card-25-us/logo.png?w=400&c=v0.59.26#w24) |[**eBay Gift Card $ 25 (US)**](ebay-gift-card-25-us/)|`ebay-gift-card-25-us`| 
 |![ebay-gift-card-5-us](https://static.openfintech.io/payout_methods/ebay-gift-card-5-us/logo.png?w=400&c=v0.59.26#w24) |[**eBay Gift Card $ 5 (US)**](ebay-gift-card-5-us/)|`ebay-gift-card-5-us`| 
+|![ecascad](https://static.openfintech.io/payout_methods/ecascad/logo.svg?w=400&c=v0.59.26#w24) |[**e.Cascad wallet**](ecascad/)|`ecascad`| 
 |![ecobanq](https://static.openfintech.io/payout_methods/ecobanq/logo.png?w=400&c=v0.59.26#w24) |[**Ecobanq**](ecobanq/)|`ecobanq`| 
 |![ecopayz](https://static.openfintech.io/payout_methods/ecopayz/logo.svg?w=400&c=v0.59.26#w24) |[**Ecopayz**](ecopayz/)|`ecopayz`| 
 |![efir-mangush](https://static.openfintech.io/payout_methods/efir-mangush/logo.png?w=400&c=v0.59.26#w24) |[**Ether (Mangush)**](efir-mangush/)|`efir-mangush`| 
@@ -394,6 +395,7 @@
 |![global-credit-prodlenie-kredita](https://static.openfintech.io/payout_methods/global-credit-prodlenie-kredita/logo.png?w=400&c=v0.59.26#w24) |[**Global Credit - Credit Extension**](global-credit-prodlenie-kredita/)|`global-credit-prodlenie-kredita`| 
 |![global-net-zaporozhe](https://static.openfintech.io/payout_methods/global-net-zaporozhe/logo.png?w=400&c=v0.59.26#w24) |[**Global-Net (Zaporizhia)**](global-net-zaporozhe/)|`global-net-zaporozhe`| 
 |![global-siti-net](https://static.openfintech.io/payout_methods/global-siti-net/logo.png?w=400&c=v0.59.26#w24) |[**Global City No**](global-siti-net/)|`global-siti-net`| 
+|![globalmoney](https://static.openfintech.io/payout_methods/globalmoney/logo.svg?w=400&c=v0.59.26#w24) |[**Global Money**](globalmoney/)|`globalmoney`| 
 |![godvill](https://static.openfintech.io/payout_methods/godvill/logo.png?w=400&c=v0.59.26#w24) |[**Godville**](godvill/)|`godvill`| 
 |![golfstrim-chernivtsi](https://static.openfintech.io/payout_methods/golfstrim-chernivtsi/logo.png?w=400&c=v0.59.26#w24) |[**Gulf Stream (Chernivtsi)**](golfstrim-chernivtsi/)|`golfstrim-chernivtsi`| 
 |![goodline](https://static.openfintech.io/payout_methods/goodline/logo.png?w=400&c=v0.59.26#w24) |[**Goodline**](goodline/)|`goodline`| 

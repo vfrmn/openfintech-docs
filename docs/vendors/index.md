@@ -449,6 +449,7 @@
 |![ebillingsolutions](https://static.openfintech.io/vendors/ebillingsolutions/logo.png?w=600&c=v0.59.26#w200) |[**EBS**](ebillingsolutions/)|`ebillingsolutions`| 
 |![ecardon](https://static.openfintech.io/vendors/ecardon/logo.png?w=600&c=v0.59.26#w200) |[**ecardon payments**](ecardon/)|`ecardon`| 
 |![ecardsa](https://static.openfintech.io/vendors/ecardsa/logo.png?w=600&c=v0.59.26#w200) |[**eCard**](ecardsa/)|`ecardsa`| 
+|![ecascad](https://static.openfintech.io/vendors/ecascad/logo.svg?w=600&c=v0.59.26#w200) |[**e.Cascad**](ecascad/)|`ecascad`| 
 |![ecashme](https://static.openfintech.io/vendors/ecashme/logo.svg?w=600&c=v0.59.26#w200) |[**eCashMe**](ecashme/)|`ecashme`| 
 |![ecb](https://static.openfintech.io/vendors/ecb/logo.png?w=600&c=v0.59.26#w200) |[**European Central Bank**](ecb/)|`ecb`| 
 |![ecobanq](https://static.openfintech.io/vendors/ecobanq/logo.png?w=600&c=v0.59.26#w200) |[**Ecobanq**](ecobanq/)|`ecobanq`| 
@@ -1321,7 +1322,7 @@
 |![qantani](https://static.openfintech.io/vendors/qantani/logo.png?w=600&c=v0.59.26#w200) |[**Qantani**](qantani/)|`qantani`| 
 |![qazaqbanki](https://static.openfintech.io/vendors/qazaqbanki/logo.svg?w=600&c=v0.59.26#w200) |[**Qazaq Banki**](qazaqbanki/)|`qazaqbanki`| 
 |![qipri](https://static.openfintech.io/vendors/qipri/logo.svg?w=600&c=v0.59.26#w200) |[**Qipri**](qipri/)|`qipri`| 
-|![qiwi](https://static.openfintech.io/vendors/qiwi/logo.svg?w=600&c=v0.59.26#w200) |[**VISA QIWI Wallet**](qiwi/)|`qiwi`| 
+|![qiwi](https://static.openfintech.io/vendors/qiwi/logo.svg?w=600&c=v0.59.26#w200) |[**Qiwi**](qiwi/)|`qiwi`| 
 |![qiwivoucher](https://static.openfintech.io/vendors/qiwivoucher/logo.svg?w=600&c=v0.59.26#w200) |[**Qiwi voucher**](qiwivoucher/)|`qiwivoucher`| 
 |![quickchange.cc](https://static.openfintech.io/vendors/quickchange.cc/logo.svg?w=600&c=v0.59.26#w200) |[**quickchange.cc**](quickchange.cc/)|`quickchange.cc`| 
 |![quickpay](https://static.openfintech.io/vendors/quickpay/logo.png?w=600&c=v0.59.26#w200) |[**QuickPay**](quickpay/)|`quickpay`| 
@@ -1442,6 +1443,7 @@
 |![spasibo.kz](https://static.openfintech.io/vendors/spasibo.kz/logo.svg?w=600&c=v0.59.26#w200) |[**Spasibo**](spasibo.kz/)|`spasibo.kz`| 
 |![spbwmcasher.ru](https://static.openfintech.io/vendors/spbwmcasher.ru/logo.svg?w=600&c=v0.59.26#w200) |[**SpbWMCasher**](spbwmcasher.ru/)|`spbwmcasher.ru`| 
 |![specializedprocessingsolutions](https://static.openfintech.io/vendors/specializedprocessingsolutions/logo.png?w=600&c=v0.59.26#w200) |[**Specialized Processing Solutions**](specializedprocessingsolutions/)|`specializedprocessingsolutions`| 
+|![spoynt](https://static.openfintech.io/vendors/spoynt/logo.svg?w=600&c=v0.59.26#w200) |[**Spoynt**](spoynt/)|`spoynt`| 
 |![spryng](https://static.openfintech.io/vendors/spryng/logo.png?w=600&c=v0.59.26#w200) |[**Spryng Payments**](spryng/)|`spryng`| 
 |![square](https://static.openfintech.io/vendors/square/logo.svg?w=600&c=v0.59.26#w200) |[**Square**](square/)|`square`| 
 |![start2pay](https://static.openfintech.io/vendors/start2pay/logo.png?w=600&c=v0.59.26#w200) |[**Start2Pay**](start2pay/)|`start2pay`| 
@@ -1529,6 +1531,7 @@
 |![transact](https://static.openfintech.io/vendors/transact/logo.png?w=600&c=v0.59.26#w200) |[**Transact Europe**](transact/)|`transact`| 
 |![transact24](https://static.openfintech.io/vendors/transact24/logo.png?w=600&c=v0.59.26#w200) |[**Transact24**](transact24/)|`transact24`| 
 |![transactpro](https://static.openfintech.io/vendors/transactpro/logo.png?w=600&c=v0.59.26#w200) |[**Transact Pro**](transactpro/)|`transactpro`| 
+|![transactworld](https://static.openfintech.io/vendors/transactworld/logo.png?w=600&c=v0.59.26#w200) |[**Transact World**](transactworld/)|`transactworld`| 
 |![transecute](https://static.openfintech.io/vendors/transecute/logo.png?w=600&c=v0.59.26#w200) |[**Transecute**](transecute/)|`transecute`| 
 |![transfer24.pro](https://static.openfintech.io/vendors/transfer24.pro/logo.svg?w=600&c=v0.59.26#w200) |[**Transfer24**](transfer24.pro/)|`transfer24.pro`| 
 |![transferhub](https://static.openfintech.io/vendors/transferhub/logo.svg?w=600&c=v0.59.26#w200) |[**TransferHub**](transferhub/)|`transferhub`| 

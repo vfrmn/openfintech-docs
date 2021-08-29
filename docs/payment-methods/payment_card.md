@@ -188,6 +188,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![paymegaio](https://static.openfintech.io/payment_providers/paymegaio/icon.svg?w=278&c=v0.59.26#w100) |[Paymega.io](/payment-providers/paymegaio/)|`paymegaio`| 
 |![paymentstrust](https://static.openfintech.io/payment_providers/paymentstrust/icon.svg?w=278&c=v0.59.26#w100) |[Payments Trust](/payment-providers/paymentstrust/)|`paymentstrust`| 
 |![twelvelive](https://static.openfintech.io/payment_providers/twelvelive/icon.svg?w=278&c=v0.59.26#w100) |[Twelve.live](/payment-providers/twelvelive/)|`twelvelive`| 
+|![spoynt](https://static.openfintech.io/payment_providers/spoynt/icon.svg?w=278&c=v0.59.26#w100) |[Spoynt](/payment-providers/spoynt/)|`spoynt`| 
 |![payeer](https://static.openfintech.io/payment_providers/payeer/icon.png?w=278&c=v0.59.26#w100) |[Payeer](/payment-providers/payeer/)|`payeer`| 
 |![tranzzo](https://static.openfintech.io/payment_providers/tranzzo/icon.svg?w=278&c=v0.59.26#w100) |[Tranzzo](/payment-providers/tranzzo/)|`tranzzo`| 
 |![decta](https://static.openfintech.io/payment_providers/decta/icon.svg?w=278&c=v0.59.26#w100) |[Decta](/payment-providers/decta/)|`decta`| 
@@ -247,6 +248,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![concordpay](https://static.openfintech.io/payment_providers/concordpay/icon.png?w=278&c=v0.59.26#w100) |[Concord Pay](/payment-providers/concordpay/)|`concordpay`| 
 |![easytransfer](https://static.openfintech.io/payment_providers/easytransfer/icon.svg?w=278&c=v0.59.26#w100) |[EasyTransfer](/payment-providers/easytransfer/)|`easytransfer`| 
 |![thorpayments](https://static.openfintech.io/payment_providers/thorpayments/icon.png?w=278&c=v0.59.26#w100) |[Thor Payments](/payment-providers/thorpayments/)|`thorpayments`| 
+|![transactworld](https://static.openfintech.io/payment_providers/transactworld/icon.png?w=278&c=v0.59.26#w100) |[Transact World](/payment-providers/transactworld/)|`transactworld`| 
  
 
 ## JSON Object 

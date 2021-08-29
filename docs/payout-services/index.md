@@ -296,6 +296,8 @@
 |![E-Installment](https://static.openfintech.io/payout_methods/e-rozstrochka/logo.png?w=400&c=v0.59.26#w24) |[**E-Installment**](/payout-methods/e-rozstrochka/)|[`e-rozstrochka_uah`](e-rozstrochka_uah/)|`UAH`| 
 |![eBay Gift Card $ 25 (US)](https://static.openfintech.io/payout_methods/ebay-gift-card-25-us/logo.png?w=400&c=v0.59.26#w24) |[**eBay Gift Card $ 25 (US)**](/payout-methods/ebay-gift-card-25-us/)|[`ebay-gift-card-25-us_uah`](ebay-gift-card-25-us_uah/)|`UAH`| 
 |![eBay Gift Card $ 5 (US)](https://static.openfintech.io/payout_methods/ebay-gift-card-5-us/logo.png?w=400&c=v0.59.26#w24) |[**eBay Gift Card $ 5 (US)**](/payout-methods/ebay-gift-card-5-us/)|[`ebay-gift-card-5-us_uah`](ebay-gift-card-5-us_uah/)|`UAH`| 
+|![e.Cascad wallet](https://static.openfintech.io/payout_methods/ecascad/logo.svg?w=400&c=v0.59.26#w24) |[**e.Cascad wallet**](/payout-methods/ecascad/)|[`ecascad_account_uah`](ecascad_account_uah/)|`UAH`| 
+|![e.Cascad wallet](https://static.openfintech.io/payout_methods/ecascad/logo.svg?w=400&c=v0.59.26#w24) |[**e.Cascad wallet**](/payout-methods/ecascad/)|[`ecascad_phone_uah`](ecascad_phone_uah/)|`UAH`| 
 |![Ecobanq](https://static.openfintech.io/payout_methods/ecobanq/logo.png?w=400&c=v0.59.26#w24) |[**Ecobanq**](/payout-methods/ecobanq/)|[`ecobanq_inr`](ecobanq_inr/)|`INR`| 
 |![Ecopayz](https://static.openfintech.io/payout_methods/ecopayz/logo.svg?w=400&c=v0.59.26#w24) |[**Ecopayz**](/payout-methods/ecopayz/)|[`ecopayz_aud`](ecopayz_aud/)|`AUD`| 
 |![Ecopayz](https://static.openfintech.io/payout_methods/ecopayz/logo.svg?w=400&c=v0.59.26#w24) |[**Ecopayz**](/payout-methods/ecopayz/)|[`ecopayz_brl`](ecopayz_brl/)|`BRL`| 
@@ -393,6 +395,7 @@
 |![Global Credit - Credit Extension](https://static.openfintech.io/payout_methods/global-credit-prodlenie-kredita/logo.png?w=400&c=v0.59.26#w24) |[**Global Credit - Credit Extension**](/payout-methods/global-credit-prodlenie-kredita/)|[`global-credit-prodlenie-kredita_uah`](global-credit-prodlenie-kredita_uah/)|`UAH`| 
 |![Global-Net (Zaporizhia)](https://static.openfintech.io/payout_methods/global-net-zaporozhe/logo.png?w=400&c=v0.59.26#w24) |[**Global-Net (Zaporizhia)**](/payout-methods/global-net-zaporozhe/)|[`global-net-zaporozhe_uah`](global-net-zaporozhe_uah/)|`UAH`| 
 |![Global City No](https://static.openfintech.io/payout_methods/global-siti-net/logo.png?w=400&c=v0.59.26#w24) |[**Global City No**](/payout-methods/global-siti-net/)|[`global-siti-net_uah`](global-siti-net_uah/)|`UAH`| 
+|![Global Money](https://static.openfintech.io/payout_methods/globalmoney/logo.svg?w=400&c=v0.59.26#w24) |[**Global Money**](/payout-methods/globalmoney/)|[`globalmoney_uah`](globalmoney_uah/)|`UAH`| 
 |![Godville](https://static.openfintech.io/payout_methods/godvill/logo.png?w=400&c=v0.59.26#w24) |[**Godville**](/payout-methods/godvill/)|[`godvill_uah`](godvill_uah/)|`UAH`| 
 |![Gulf Stream (Chernivtsi)](https://static.openfintech.io/payout_methods/golfstrim-chernivtsi/logo.png?w=400&c=v0.59.26#w24) |[**Gulf Stream (Chernivtsi)**](/payout-methods/golfstrim-chernivtsi/)|[`golfstrim-chernivtsi_uah`](golfstrim-chernivtsi_uah/)|`UAH`| 
 |![Goodline](https://static.openfintech.io/payout_methods/goodline/logo.png?w=400&c=v0.59.26#w24) |[**Goodline**](/payout-methods/goodline/)|[`goodline_uah`](goodline_uah/)|`UAH`| 

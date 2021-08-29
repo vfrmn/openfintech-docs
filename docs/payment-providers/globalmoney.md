@@ -71,6 +71,7 @@ The list of supported [Payout Methods](/payout-methods/)
 |![kyivstar_contract](https://static.openfintech.io/payout_methods/kyivstar_contract/icon.svg?w=278&c=v0.59.26#w40) |[kyivstar_contract](payout-methodskyivstar_contract/)|`kyivstar_contract`| 
 |![vodafone_contract](https://static.openfintech.io/payout_methods/vodafone_contract/icon.svg?w=278&c=v0.59.26#w40) |[vodafone_contract](payout-methodsvodafone_contract/)|`vodafone_contract`| 
 |![intertelekom_contract](https://static.openfintech.io/payout_methods/intertelekom_contract/icon.png?w=278&c=v0.59.26#w40) |[intertelekom_contract](payout-methodsintertelekom_contract/)|`intertelekom_contract`| 
+|![globalmoney](https://static.openfintech.io/payout_methods/globalmoney/icon.svg?w=278&c=v0.59.26#w40) |[globalmoney](payout-methodsglobalmoney/)|`globalmoney`| 
  
 
 ## JSON Object 
@@ -117,7 +118,8 @@ The list of supported [Payout Methods](/payout-methods/)
     "vega_contract",
     "kyivstar_contract",
     "vodafone_contract",
-    "intertelekom_contract"
+    "intertelekom_contract",
+    "globalmoney"
   ],
   "metadata":null,
   "name":{
