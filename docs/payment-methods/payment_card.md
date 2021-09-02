@@ -53,6 +53,7 @@ The list of [Payment Services](/payment-services/) based on the _Payment card_
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_bgn_hpp](/payment-services/payment_card_bgn_hpp/)|`payment_card_bgn_hpp`| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_sek_hpp](/payment-services/payment_card_sek_hpp/)|`payment_card_sek_hpp`| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_uah_hpp](/payment-services/payment_card_uah_hpp/)|`payment_card_uah_hpp`| 
+|![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_zar_hpp](/payment-services/payment_card_zar_hpp/)|`payment_card_zar_hpp`| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_inr_hpp](/payment-services/payment_card_inr_hpp/)|`payment_card_inr_hpp`| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_mxn_hpp](/payment-services/payment_card_mxn_hpp/)|`payment_card_mxn_hpp`| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_vnd_hpp](/payment-services/payment_card_vnd_hpp/)|`payment_card_vnd_hpp`| 
@@ -249,6 +250,11 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![easytransfer](https://static.openfintech.io/payment_providers/easytransfer/icon.svg?w=278&c=v0.59.26#w100) |[EasyTransfer](/payment-providers/easytransfer/)|`easytransfer`| 
 |![thorpayments](https://static.openfintech.io/payment_providers/thorpayments/icon.png?w=278&c=v0.59.26#w100) |[Thor Payments](/payment-providers/thorpayments/)|`thorpayments`| 
 |![transactworld](https://static.openfintech.io/payment_providers/transactworld/icon.png?w=278&c=v0.59.26#w100) |[Transact World](/payment-providers/transactworld/)|`transactworld`| 
+|![payclub](https://static.openfintech.io/payment_providers/payclub/icon.png?w=278&c=v0.59.26#w100) |[PayClub](/payment-providers/payclub/)|`payclub`| 
+|![betatransfer](https://static.openfintech.io/payment_providers/betatransfer/icon.svg?w=278&c=v0.59.26#w100) |[BetaTransfer](/payment-providers/betatransfer/)|`betatransfer`| 
+|![gumballpay](https://static.openfintech.io/payment_providers/gumballpay/icon.png?w=278&c=v0.59.26#w100) |[GumballPay](/payment-providers/gumballpay/)|`gumballpay`| 
+|![paypound](https://static.openfintech.io/payment_providers/paypound/icon.png?w=278&c=v0.59.26#w100) |[PayPound](/payment-providers/paypound/)|`paypound`| 
+|![blackrabbit](https://static.openfintech.io/payment_providers/blackrabbit/icon.png?w=278&c=v0.59.26#w100) |[BlackRabbit](/payment-providers/blackrabbit/)|`blackrabbit`| 
  
 
 ## JSON Object 

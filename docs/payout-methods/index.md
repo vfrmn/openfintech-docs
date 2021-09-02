@@ -1816,6 +1816,7 @@
 |![ternet](https://static.openfintech.io/payout_methods/ternet/logo.png?w=400&c=v0.59.26#w24) |[**Ternet**](ternet/)|`ternet`| 
 |![ternopolskii-raschetnyi-tsentr](https://static.openfintech.io/payout_methods/ternopolskii-raschetnyi-tsentr/logo.png?w=400&c=v0.59.26#w24) |[**Ternopil settlement center**](ternopolskii-raschetnyi-tsentr/)|`ternopolskii-raschetnyi-tsentr`| 
 |![test](https://static.openfintech.io/payout_methods/test/logo.png?w=400&c=v0.59.26#w24) |[**Test**](test/)|`test`| 
+|![tether](https://static.openfintech.io/payout_methods/tether/logo.svg?w=400&c=v0.59.26#w24) |[**Tether**](tether/)|`tether`| 
 |![teztelecom-dlia-agenstv](https://static.openfintech.io/payout_methods/teztelecom-dlia-agenstv/logo.png?w=400&c=v0.59.26#w24) |[**TezTelecom for agencies**](teztelecom-dlia-agenstv/)|`teztelecom-dlia-agenstv`| 
 |![teztelecom-dlia-turistov](https://static.openfintech.io/payout_methods/teztelecom-dlia-turistov/logo.png?w=400&c=v0.59.26#w24) |[**TezTelecom for tourists**](teztelecom-dlia-turistov/)|`teztelecom-dlia-turistov`| 
 |![the-best](https://static.openfintech.io/payout_methods/the-best/logo.png?w=400&c=v0.59.26#w24) |[**the best**](the-best/)|`the-best`| 
@@ -2232,7 +2233,7 @@
 |![upr-kompaniia-zhku-mirts-g-artemovsk](https://static.openfintech.io/payout_methods/upr-kompaniia-zhku-mirts-g-artemovsk/logo.svg?w=400&c=v0.59.26#w24) |[**Упр.компания ЖКУ МИРЦ г.Артемовск**](upr-kompaniia-zhku-mirts-g-artemovsk/)|`upr-kompaniia-zhku-mirts-g-artemovsk`| 
 |![upravlenie-gorodskim-khoziaistvom-g-vishneve](https://static.openfintech.io/payout_methods/upravlenie-gorodskim-khoziaistvom-g-vishneve/logo.png?w=400&c=v0.59.26#w24) |[**Urban Management (Vishneve)**](upravlenie-gorodskim-khoziaistvom-g-vishneve/)|`upravlenie-gorodskim-khoziaistvom-g-vishneve`| 
 |![upravlinnia-politsiyi-okhoroni-v-m-kievi](https://static.openfintech.io/payout_methods/upravlinnia-politsiyi-okhoroni-v-m-kievi/logo.png?w=400&c=v0.59.26#w24) |[**POLICE DEPARTMENT OF POLICE PROTECTION IN KIEV**](upravlinnia-politsiyi-okhoroni-v-m-kievi/)|`upravlinnia-politsiyi-okhoroni-v-m-kievi`| 
-|![usdt](https://static.openfintech.io/payout_methods/usdt/logo.svg?w=400&c=v0.59.26#w24) |[**Tether**](usdt/)|`usdt`| 
+|![usdt](https://static.openfintech.io/payout_methods/usdt/logo.svg?w=400&c=v0.59.26#w24) |[**Tether (Deprecated)**](usdt/)|`usdt`| 
 |![uteam-ivano-frankivsk](https://static.openfintech.io/payout_methods/uteam-ivano-frankivsk/logo.png?w=400&c=v0.59.26#w24) |[**Uteam (Ivano-Frankivsk)**](uteam-ivano-frankivsk/)|`uteam-ivano-frankivsk`| 
 |![utels-g-kiev](https://static.openfintech.io/payout_methods/utels-g-kiev/logo.png?w=400&c=v0.59.26#w24) |[**UTELS (Kiev)**](utels-g-kiev/)|`utels-g-kiev`| 
 |![uvaga-tuberkuloz-mbf-tsspm](https://static.openfintech.io/payout_methods/uvaga-tuberkuloz-mbf-tsspm/logo.png?w=400&c=v0.59.26#w24) |[**Attention Tuberculosis - ICF DSPM**](uvaga-tuberkuloz-mbf-tsspm/)|`uvaga-tuberkuloz-mbf-tsspm`| 

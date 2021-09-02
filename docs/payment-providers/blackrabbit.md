@@ -1,36 +1,36 @@
 
-# Transact World 
-![transactworld](https://static.openfintech.io/payment_providers/transactworld/logo.png?w=400&c=v0.59.26#w100)  
+# BlackRabbit 
+![blackrabbit](https://static.openfintech.io/payment_providers/blackrabbit/logo.png?w=400&c=v0.59.26#w100)  
 
 ## General 
  
-**Code:** `transactworld` 
+**Code:** `blackrabbit` 
  
-**Vendor:** `transactworld` [show -->](/vendors/transactworld/) 
+**Vendor:** `blackrabbit` [show -->](/vendors/blackrabbit/) 
  
 **Name:** 
  
-:	[EN] Transact World 
-:	[RU] Transact World 
-:	[UK] Transact World 
+:	[EN] BlackRabbit 
+:	[RU] BlackRabbit 
+:	[UK] BlackRabbit 
  
 
 ## Images 
 
 ### Logo 
  
-![transactworld](https://static.openfintech.io/payment_providers/transactworld/logo.png?w=400&c=v0.59.26#w100)  
+![blackrabbit](https://static.openfintech.io/payment_providers/blackrabbit/logo.png?w=400&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/transactworld/logo.png?w=400&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/blackrabbit/logo.png?w=400&c=v0.59.26#w100
 ```  
 
 ### Icon 
  
-![transactworld](https://static.openfintech.io/payment_providers/transactworld/icon.png?w=278&c=v0.59.26#w100)  
+![blackrabbit](https://static.openfintech.io/payment_providers/blackrabbit/icon.png?w=278&c=v0.59.26#w100)  
 
 ```
-https://static.openfintech.io/payment_providers/transactworld/icon.png?w=278&c=v0.59.26#w100
+https://static.openfintech.io/payment_providers/blackrabbit/icon.png?w=278&c=v0.59.26#w100
 ```  
 
 ## Payment Methods 
@@ -55,9 +55,9 @@ The list of supported [Payout Methods](/payout-methods/)
 
 ```json
 {
-  "code":"transactworld",
+  "code":"blackrabbit",
   "description":null,
-  "vendor":"transactworld",
+  "vendor":"blackrabbit",
   "categories":null,
   "countries":null,
   "payment_method":[
@@ -68,9 +68,9 @@ The list of supported [Payout Methods](/payout-methods/)
   ],
   "metadata":null,
   "name":{
-    "en":"Transact World",
-    "ru":"Transact World",
-    "uk":"Transact World"
+    "en":"BlackRabbit",
+    "ru":"BlackRabbit",
+    "uk":"BlackRabbit"
   }
 }
 ```  

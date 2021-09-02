@@ -42,6 +42,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![bitcoin](https://static.openfintech.io/payment_methods/bitcoin/icon.svg?w=278&c=v0.59.26#w100) |[bitcoin](/payment-methods/bitcoin/)|`bitcoin`| 
 |![bitcoin_cash](https://static.openfintech.io/payment_methods/bitcoin_cash/icon.png?w=278&c=v0.59.26#w100) |[bitcoin_cash](/payment-methods/bitcoin_cash/)|`bitcoin_cash`| 
 |![litecoin](https://static.openfintech.io/payment_methods/litecoin/icon.png?w=278&c=v0.59.26#w100) |[litecoin](/payment-methods/litecoin/)|`litecoin`| 
+|![tether](https://static.openfintech.io/payment_methods/tether/icon.svg?w=278&c=v0.59.26#w100) |[tether](/payment-methods/tether/)|`tether`| 
  
 
 ## JSON Object 
@@ -56,7 +57,8 @@ The list of supported [Payment Methods](/payment-methods/)
   "payment_method":[
     "bitcoin",
     "bitcoin_cash",
-    "litecoin"
+    "litecoin",
+    "tether"
   ],
   "payout_method":null,
   "metadata":null,
