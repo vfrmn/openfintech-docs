@@ -45,6 +45,7 @@
 |![anycash](https://static.openfintech.io/payment_providers/anycash/logo.svg?w=600&c=v0.59.26#w100) |[**AnyCash**](anycash/)|`anycash`| 
 |![anymoney](https://static.openfintech.io/payment_providers/anymoney/logo.svg?w=600&c=v0.59.26#w100) |[**Any.Money**](anymoney/)|`anymoney`| 
 |![apco](https://static.openfintech.io/payment_providers/apco/logo.png?w=600&c=v0.59.26#w100) |[**APCO**](apco/)|`apco`| 
+|![appexmoney](https://static.openfintech.io/payment_providers/appexmoney/logo.svg?w=600&c=v0.59.26#w100) |[**Appexmoney**](appexmoney/)|`appexmoney`| 
 |![aramorpayments](https://static.openfintech.io/payment_providers/aramorpayments/logo.svg?w=600&c=v0.59.26#w100) |[**Aramor Payments**](aramorpayments/)|`aramorpayments`| 
 |![aretosystems](https://static.openfintech.io/payment_providers/aretosystems/logo.png?w=600&c=v0.59.26#w100) |[**Areto Systems**](aretosystems/)|`aretosystems`| 
 |![arvatofinance](https://static.openfintech.io/payment_providers/arvatofinance/logo.svg?w=600&c=v0.59.26#w100) |[**arvato Finance Services Ltd.**](arvatofinance/)|`arvatofinance`| 
@@ -121,6 +122,7 @@
 |![ccvpay](https://static.openfintech.io/payment_providers/ccvpay/logo.png?w=600&c=v0.59.26#w100) |[**CCV Pay**](ccvpay/)|`ccvpay`| 
 |![centus](https://static.openfintech.io/payment_providers/centus/logo.png?w=600&c=v0.59.26#w100) |[**Centus**](centus/)|`centus`| 
 |![certusfinance](https://static.openfintech.io/payment_providers/certusfinance/logo.png?w=600&c=v0.59.26#w100) |[**Certus Finance**](certusfinance/)|`certusfinance`| 
+|![changcoinspay](https://static.openfintech.io/payment_providers/changcoinspay/logo.png?w=600&c=v0.59.26#w100) |[**ChangcoinsPay**](changcoinspay/)|`changcoinspay`| 
 |![charityclear](https://static.openfintech.io/payment_providers/charityclear/logo.png?w=600&c=v0.59.26#w100) |[**CharityClear**](charityclear/)|`charityclear`| 
 |![chasepaymentech](https://static.openfintech.io/payment_providers/chasepaymentech/logo.png?w=600&c=v0.59.26#w100) |[**J.P. Morgan Commerce Solutions**](chasepaymentech/)|`chasepaymentech`| 
 |![checkalt](https://static.openfintech.io/payment_providers/checkalt/logo.svg?w=600&c=v0.59.26#w100) |[**CheckAlt Payment Solutions**](checkalt/)|`checkalt`| 
@@ -260,6 +262,7 @@
 |![genome](https://static.openfintech.io/payment_providers/genome/logo.svg?w=600&c=v0.59.26#w100) |[**Genome**](genome/)|`genome`| 
 |![geopaynet](https://static.openfintech.io/payment_providers/geopaynet/logo.svg?w=600&c=v0.59.26#w100) |[**GEO Pay**](geopaynet/)|`geopaynet`| 
 |![gestpay](https://static.openfintech.io/payment_providers/gestpay/logo.png?w=600&c=v0.59.26#w100) |[**GestPay**](gestpay/)|`gestpay`| 
+|![getapay](https://static.openfintech.io/payment_providers/getapay/logo.svg?w=600&c=v0.59.26#w100) |[**GetaPay**](getapay/)|`getapay`| 
 |![ghlsystemsberhad](https://static.openfintech.io/payment_providers/ghlsystemsberhad/logo.png?w=600&c=v0.59.26#w100) |[**GHL Systems Berhad**](ghlsystemsberhad/)|`ghlsystemsberhad`| 
 |![gingerpayments](https://static.openfintech.io/payment_providers/gingerpayments/logo.png?w=600&c=v0.59.26#w100) |[**Ginger Payments**](gingerpayments/)|`gingerpayments`| 
 |![girosolution](https://static.openfintech.io/payment_providers/girosolution/logo.png?w=600&c=v0.59.26#w100) |[**GiroSolution**](girosolution/)|`girosolution`| 
@@ -292,7 +295,7 @@
 |![ibox](https://static.openfintech.io/payment_providers/ibox/logo.svg?w=600&c=v0.59.26#w100) |[**iBox**](ibox/)|`ibox`| 
 |![iboxbank](https://static.openfintech.io/payment_providers/iboxbank/logo.png?w=600&c=v0.59.26#w100) |[**Ibox Bank**](iboxbank/)|`iboxbank`| 
 |![icepay](https://static.openfintech.io/payment_providers/icepay/logo.png?w=600&c=v0.59.26#w100) |[**ICEPAY**](icepay/)|`icepay`| 
-|![ikajo](https://static.openfintech.io/payment_providers/ikajo/logo.png?w=600&c=v0.59.26#w100) |[**Ikajo**](ikajo/)|`ikajo`| 
+|![ikajo](https://static.openfintech.io/payment_providers/ikajo/logo.svg?w=600&c=v0.59.26#w100) |[**Ikajo**](ikajo/)|`ikajo`| 
 |![ikorunapaymentsystems](https://static.openfintech.io/payment_providers/ikorunapaymentsystems/logo.png?w=600&c=v0.59.26#w100) |[**IKoruna**](ikorunapaymentsystems/)|`ikorunapaymentsystems`| 
 |![imglobalpayments](https://static.openfintech.io/payment_providers/imglobalpayments/logo.png?w=600&c=v0.59.26#w100) |[**ImGlobal Payments**](imglobalpayments/)|`imglobalpayments`| 
 |![inatecpayment](https://static.openfintech.io/payment_providers/inatecpayment/logo.png?w=600&c=v0.59.26#w100) |[**Inatec Payment**](inatecpayment/)|`inatecpayment`| 
@@ -361,6 +364,7 @@
 |![mondido](https://static.openfintech.io/payment_providers/mondido/logo.png?w=600&c=v0.59.26#w100) |[**Mondido**](mondido/)|`mondido`| 
 |![monetaru](https://static.openfintech.io/payment_providers/monetaru/logo.png?w=600&c=v0.59.26#w100) |[**Moneta.RU**](monetaru/)|`monetaru`| 
 |![moneymovers](https://static.openfintech.io/payment_providers/moneymovers/logo.svg?w=600&c=v0.59.26#w100) |[**MoneyMovers**](moneymovers/)|`moneymovers`| 
+|![moneypay](https://static.openfintech.io/payment_providers/moneypay/logo.png?w=600&c=v0.59.26#w100) |[**MoneyPay**](moneypay/)|`moneypay`| 
 |![mopay](https://static.openfintech.io/payment_providers/mopay/logo.png?w=600&c=v0.59.26#w100) |[**mopay**](mopay/)|`mopay`| 
 |![mozcompayeasy](https://static.openfintech.io/payment_providers/mozcompayeasy/logo.png?w=600&c=v0.59.26#w100) |[**Mozcom PayEasy**](mozcompayeasy/)|`mozcompayeasy`| 
 |![mpay24](https://static.openfintech.io/payment_providers/mpay24/logo.png?w=600&c=v0.59.26#w100) |[**mPay24**](mpay24/)|`mpay24`| 
@@ -565,7 +569,6 @@
 |![satchelpay](https://static.openfintech.io/payment_providers/satchelpay/logo.png?w=600&c=v0.59.26#w100) |[**Satchel**](satchelpay/)|`satchelpay`| 
 |![sbm](https://static.openfintech.io/payment_providers/sbm/logo.png?w=600&c=v0.59.26#w100) |[**State Bank of Mauritius**](sbm/)|`sbm`| 
 |![scanpay](https://static.openfintech.io/payment_providers/scanpay/logo.png?w=600&c=v0.59.26#w100) |[**Scanpay**](scanpay/)|`scanpay`| 
-|![sdkfinance](https://static.openfintech.io/payment_providers/sdkfinance/logo.png?w=600&c=v0.59.26#w100) |[**SDK.finance**](sdkfinance/)|`sdkfinance`| 
 |![secupay](https://static.openfintech.io/payment_providers/secupay/logo.png?w=600&c=v0.59.26#w100) |[**secupay**](secupay/)|`secupay`| 
 |![securcharge](https://static.openfintech.io/payment_providers/securcharge/logo.png?w=600&c=v0.59.26#w100) |[**SecurCharge**](securcharge/)|`securcharge`| 
 |![securenetllc](https://static.openfintech.io/payment_providers/securenetllc/logo.png?w=600&c=v0.59.26#w100) |[**SecureNet LLC**](securenetllc/)|`securenetllc`| 
@@ -593,6 +596,7 @@
 |![smartdebit](https://static.openfintech.io/payment_providers/smartdebit/logo.png?w=600&c=v0.59.26#w100) |[**SmartDebit**](smartdebit/)|`smartdebit`| 
 |![smilepayments](https://static.openfintech.io/payment_providers/smilepayments/logo.png?w=600&c=v0.59.26#w100) |[**Smile Payments**](smilepayments/)|`smilepayments`| 
 |![soeasypay](https://static.openfintech.io/payment_providers/soeasypay/logo.png?w=600&c=v0.59.26#w100) |[**SoEasyPay**](soeasypay/)|`soeasypay`| 
+|![solidgate](https://static.openfintech.io/payment_providers/solidgate/logo.svg?w=600&c=v0.59.26#w100) |[**Solid**](solidgate/)|`solidgate`| 
 |![specializedprocessingsolutions](https://static.openfintech.io/payment_providers/specializedprocessingsolutions/logo.png?w=600&c=v0.59.26#w100) |[**Specialized Processing Solutions**](specializedprocessingsolutions/)|`specializedprocessingsolutions`| 
 |![spoynt](https://static.openfintech.io/payment_providers/spoynt/logo.svg?w=600&c=v0.59.26#w100) |[**Spoynt**](spoynt/)|`spoynt`| 
 |![spryng](https://static.openfintech.io/payment_providers/spryng/logo.png?w=600&c=v0.59.26#w100) |[**Spryng Payments**](spryng/)|`spryng`| 
@@ -615,6 +619,7 @@
 |![theecheckcom](https://static.openfintech.io/payment_providers/theecheckcom/logo.png?w=600&c=v0.59.26#w100) |[**TheECheck.com**](theecheckcom/)|`theecheckcom`| 
 |![thelogicgroup](https://static.openfintech.io/payment_providers/thelogicgroup/logo.png?w=600&c=v0.59.26#w100) |[**The Logic Group**](thelogicgroup/)|`thelogicgroup`| 
 |![thorpayments](https://static.openfintech.io/payment_providers/thorpayments/logo.png?w=600&c=v0.59.26#w100) |[**Thor Payments**](thorpayments/)|`thorpayments`| 
+|![tinkoff](https://static.openfintech.io/payment_providers/tinkoff/logo.svg?w=600&c=v0.59.26#w100) |[**Tinkoff**](tinkoff/)|`tinkoff`| 
 |![tkbpay](https://static.openfintech.io/payment_providers/tkbpay/logo.svg?w=600&c=v0.59.26#w100) |[**TKB Pay**](tkbpay/)|`tkbpay`| 
 |![tnspay](https://static.openfintech.io/payment_providers/tnspay/logo.png?w=600&c=v0.59.26#w100) |[**TNSPay**](tnspay/)|`tnspay`| 
 |![tome](https://static.openfintech.io/payment_providers/tome/logo.svg?w=600&c=v0.59.26#w100) |[**Tome**](tome/)|`tome`| 
@@ -670,7 +675,7 @@
 |![webteh](https://static.openfintech.io/payment_providers/webteh/logo.png?w=600&c=v0.59.26#w100) |[**Webteh**](webteh/)|`webteh`| 
 |![wedeal](https://static.openfintech.io/payment_providers/wedeal/logo.png?w=600&c=v0.59.26#w100) |[**weDeal**](wedeal/)|`wedeal`| 
 |![wepay](https://static.openfintech.io/payment_providers/wepay/logo.svg?w=600&c=v0.59.26#w100) |[**WePay**](wepay/)|`wepay`| 
-|![winpay](https://static.openfintech.io/payment_providers/winpay/logo.png?w=600&c=v0.59.26#w100) |[**WinPay**](winpay/)|`winpay`| 
+|![winpay](https://static.openfintech.io/payment_providers/winpay/logo.png?w=600&c=v0.59.26#w100) |[**Global Financial Innovations**](winpay/)|`winpay`| 
 |![wire2pay](https://static.openfintech.io/payment_providers/wire2pay/logo.svg?w=600&c=v0.59.26#w100) |[**Wire2Pay**](wire2pay/)|`wire2pay`| 
 |![wirecapital](https://static.openfintech.io/payment_providers/wirecapital/logo.svg?w=600&c=v0.59.26#w100) |[**Wirecapital**](wirecapital/)|`wirecapital`| 
 |![wirecard](https://static.openfintech.io/payment_providers/wirecard/logo.svg?w=600&c=v0.59.26#w100) |[**Wirecard**](wirecard/)|`wirecard`| 

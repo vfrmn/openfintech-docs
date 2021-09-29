@@ -24,7 +24,7 @@
 
 |Key|Required|Type|Regexp| 
 |:---:|:---:|:---:|:---:| 
-|`vpa`|✔|`string`|`/^\w.+@\w+$/`| 
+|`vpa`|✔|`string`|`/^.{2,}@\w+$/`| 
 |`name`|✔|`string`|`/^[a-zA-Z]+(([',. -][a-zA-Z ])?[a-zA-Z]*)*$/`| 
 |`email`|✔|`string`|`/^[_a-z0-9-]+(\.[_a-z0-9-]+)*@[a-z0-9-]+(\.[a-z0-9-]+)*(\.[a-z]{2,3})$/`| 
 |`phone`|✔|`string`|`/^\d{9,14}$/`| 
@@ -39,7 +39,7 @@
  
 	Type: `string` 
  
-	Regexp: `/^\w.+@\w+$/` 
+	Regexp: `/^.{2,}@\w+$/` 
  
 	Required: `1` 
  
@@ -183,7 +183,7 @@
         "ru":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 VPA",
         "uk":"\u0412\u0432\u0435\u0434\u0456\u0442\u044c VPA"
       },
-      "regexp":"\/^\\w.+@\\w+$\/",
+      "regexp":"\/^.{2,}@\\w+$\/",
       "required":true,
       "position":1
     },

@@ -113,7 +113,6 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![wirecapital](https://static.openfintech.io/payment_providers/wirecapital/icon.svg?w=278&c=v0.59.26#w100) |[Wirecapital](/payment-providers/wirecapital/)|`wirecapital`| 
 |![ppro](https://static.openfintech.io/payment_providers/ppro/icon.png?w=278&c=v0.59.26#w100) |[PPRO Financial Ltd](/payment-providers/ppro/)|`ppro`| 
 |![comerciaglobalpayments](https://static.openfintech.io/payment_providers/comerciaglobalpayments/icon.png?w=278&c=v0.59.26#w100) |[Comercia Global Payments](/payment-providers/comerciaglobalpayments/)|`comerciaglobalpayments`| 
-|![ikajo](https://static.openfintech.io/payment_providers/ikajo/icon.png?w=278&c=v0.59.26#w100) |[Ikajo](/payment-providers/ikajo/)|`ikajo`| 
 |![heidelpay](https://static.openfintech.io/payment_providers/heidelpay/icon.png?w=278&c=v0.59.26#w100) |[Heidelpay](/payment-providers/heidelpay/)|`heidelpay`| 
 |![atosworldline](https://static.openfintech.io/payment_providers/atosworldline/icon.png?w=278&c=v0.59.26#w100) |[Worldline](/payment-providers/atosworldline/)|`atosworldline`| 
 |![ingenicopaymentservices](https://static.openfintech.io/payment_providers/ingenicopaymentservices/icon.png?w=278&c=v0.59.26#w100) |[Ingenico ePayments](/payment-providers/ingenicopaymentservices/)|`ingenicopaymentservices`| 
@@ -213,7 +212,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![exactly](https://static.openfintech.io/payment_providers/exactly/icon.svg?w=278&c=v0.59.26#w100) |[Exactly](/payment-providers/exactly/)|`exactly`| 
 |![xpate](https://static.openfintech.io/payment_providers/xpate/icon.svg?w=278&c=v0.59.26#w100) |[Xpate](/payment-providers/xpate/)|`xpate`| 
 |![cypix](https://static.openfintech.io/payment_providers/cypix/icon.svg?w=278&c=v0.59.26#w100) |[Cypix](/payment-providers/cypix/)|`cypix`| 
-|![winpay](https://static.openfintech.io/payment_providers/winpay/icon.png?w=278&c=v0.59.26#w100) |[WinPay](/payment-providers/winpay/)|`winpay`| 
+|![winpay](https://static.openfintech.io/payment_providers/winpay/icon.png?w=278&c=v0.59.26#w100) |[Global Financial Innovations](/payment-providers/winpay/)|`winpay`| 
 |![taslink](https://static.openfintech.io/payment_providers/taslink/icon.svg?w=278&c=v0.59.26#w100) |[TAS Link](/payment-providers/taslink/)|`taslink`| 
 |![anymoney](https://static.openfintech.io/payment_providers/anymoney/icon.svg?w=278&c=v0.59.26#w100) |[Any.Money](/payment-providers/anymoney/)|`anymoney`| 
 |![alikassa](https://static.openfintech.io/payment_providers/alikassa/icon.svg?w=278&c=v0.59.26#w100) |[AliKassa](/payment-providers/alikassa/)|`alikassa`| 
@@ -253,6 +252,11 @@ The list of [Payment Providers](/payment-providers/) that support the _Card_
 |![gumballpay](https://static.openfintech.io/payment_providers/gumballpay/icon.png?w=278&c=v0.59.26#w100) |[GumballPay](/payment-providers/gumballpay/)|`gumballpay`| 
 |![paypound](https://static.openfintech.io/payment_providers/paypound/icon.png?w=278&c=v0.59.26#w100) |[PayPound](/payment-providers/paypound/)|`paypound`| 
 |![blackrabbit](https://static.openfintech.io/payment_providers/blackrabbit/icon.png?w=278&c=v0.59.26#w100) |[BlackRabbit](/payment-providers/blackrabbit/)|`blackrabbit`| 
+|![solidgate](https://static.openfintech.io/payment_providers/solidgate/icon.svg?w=278&c=v0.59.26#w100) |[Solid](/payment-providers/solidgate/)|`solidgate`| 
+|![tinkoff](https://static.openfintech.io/payment_providers/tinkoff/icon.svg?w=278&c=v0.59.26#w100) |[Tinkoff](/payment-providers/tinkoff/)|`tinkoff`| 
+|![ikajo](https://static.openfintech.io/payment_providers/ikajo/icon.svg?w=278&c=v0.59.26#w100) |[Ikajo](/payment-providers/ikajo/)|`ikajo`| 
+|![getapay](https://static.openfintech.io/payment_providers/getapay/icon.svg?w=278&c=v0.59.26#w100) |[GetaPay](/payment-providers/getapay/)|`getapay`| 
+|![moneypay](https://static.openfintech.io/payment_providers/moneypay/icon.png?w=278&c=v0.59.26#w100) |[MoneyPay](/payment-providers/moneypay/)|`moneypay`| 
  
 
 ## JSON Object 

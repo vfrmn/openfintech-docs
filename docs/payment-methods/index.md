@@ -75,6 +75,7 @@
 |![billmelater](https://static.openfintech.io/payment_methods/billmelater/logo.png?w=400&c=v0.59.26#w200) |[**PayPal Credit**](billmelater/)|`billmelater`| 
 |![billpay](https://static.openfintech.io/payment_methods/billpay/logo.png?w=400&c=v0.59.26#w200) |[**BIllpay**](billpay/)|`billpay`| 
 |![billsafe](https://static.openfintech.io/payment_methods/billsafe/logo.png?w=400&c=v0.59.26#w200) |[**BillSAFE**](billsafe/)|`billsafe`| 
+|![binance_coin](https://static.openfintech.io/payment_methods/binance_coin/logo.svg?w=400&c=v0.59.26#w200) |[**Binance Coin**](binance_coin/)|`binance_coin`| 
 |![bitcoin](https://static.openfintech.io/payment_methods/bitcoin/logo.svg?w=400&c=v0.59.26#w200) |[**Bitcoin**](bitcoin/)|`bitcoin`| 
 |![bitcoin_cash](https://static.openfintech.io/payment_methods/bitcoin_cash/logo.png?w=400&c=v0.59.26#w200) |[**Bitcoin Cash**](bitcoin_cash/)|`bitcoin_cash`| 
 |![bkmexpress](https://static.openfintech.io/payment_methods/bkmexpress/logo.png?w=400&c=v0.59.26#w200) |[**BKM Express**](bkmexpress/)|`bkmexpress`| 
@@ -132,6 +133,7 @@
 |![dinersclub](https://static.openfintech.io/payment_methods/dinersclub/logo.svg?w=400&c=v0.59.26#w200) |[**Diners Club International**](dinersclub/)|`dinersclub`| 
 |![directdebit](https://static.openfintech.io/payment_methods/directdebit/logo.png?w=400&c=v0.59.26#w200) |[**Direct Debit**](directdebit/)|`directdebit`| 
 |![discover](https://static.openfintech.io/payment_methods/discover/logo.svg?w=400&c=v0.59.26#w200) |[**Discover**](discover/)|`discover`| 
+|![dogecoin](https://static.openfintech.io/payment_methods/dogecoin/logo.svg?w=400&c=v0.59.26#w200) |[**Dogecoin**](dogecoin/)|`dogecoin`| 
 |![dokuwallet](https://static.openfintech.io/payment_methods/dokuwallet/logo.png?w=400&c=v0.59.26#w200) |[**DOKU Wallet**](dokuwallet/)|`dokuwallet`| 
 |![dong_a_bank](https://static.openfintech.io/payment_methods/dong_a_bank/logo.png?w=400&c=v0.59.26#w200) |[**Dong A Bank**](dong_a_bank/)|`dong_a_bank`| 
 |![dwolla](https://static.openfintech.io/payment_methods/dwolla/logo.svg?w=400&c=v0.59.26#w200) |[**Dwolla**](dwolla/)|`dwolla`| 
@@ -425,7 +427,6 @@
 |![unistream](https://static.openfintech.io/payment_methods/unistream/logo.png?w=400&c=v0.59.26#w200) |[**Unistream**](unistream/)|`unistream`| 
 |![unitedoverseasbankuobnetbanking](https://static.openfintech.io/payment_methods/unitedoverseasbankuobnetbanking/logo.png?w=400&c=v0.59.26#w200) |[**UOB netbanking**](unitedoverseasbankuobnetbanking/)|`unitedoverseasbankuobnetbanking`| 
 |![uobt](https://static.openfintech.io/payment_methods/uobt/logo.svg?w=400&c=v0.59.26#w200) |[**UOBT**](uobt/)|`uobt`| 
-|![usdt](https://static.openfintech.io/payment_methods/usdt/logo.svg?w=400&c=v0.59.26#w200) |[**Tether (Deprecated)**](usdt/)|`usdt`| 
 |![usemyservices](https://static.openfintech.io/payment_methods/usemyservices/logo.png?w=400&c=v0.59.26#w200) |[**UseMyServices**](usemyservices/)|`usemyservices`| 
 |![ussd](https://static.openfintech.io/payment_methods/ussd/logo.svg?w=400&c=v0.59.26#w200) |[**USSD**](ussd/)|`ussd`| 
 || **V** ||

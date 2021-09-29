@@ -645,7 +645,6 @@
 |![kvazar-link-melitopol](https://static.openfintech.io/payout_methods/kvazar-link-melitopol/logo.png?w=400&c=v0.59.26#w24) |[**KVAZAR-LINK (Melitopol)**](kvazar-link-melitopol/)|`kvazar-link-melitopol`| 
 |![kyivlink](https://static.openfintech.io/payout_methods/kyivlink/logo.png?w=400&c=v0.59.26#w24) |[**KyivLink**](kyivlink/)|`kyivlink`| 
 |![kyivstar_contract](https://static.openfintech.io/payout_methods/kyivstar_contract/logo.svg?w=400&c=v0.59.26#w24) |[**Kyivstar (contract)**](kyivstar_contract/)|`kyivstar_contract`| 
-|![kyivstar_contract_number](https://static.openfintech.io/payout_methods/kyivstar_contract_number/logo.svg?w=400&c=v0.59.26#w24) |[**Kyivstar (contract)**](kyivstar_contract_number/)|`kyivstar_contract_number`| 
 |![kyivstar_internet](https://static.openfintech.io/payout_methods/kyivstar_internet/logo.svg?w=400&c=v0.59.26#w24) |[**Kyivstar (internet)**](kyivstar_internet/)|`kyivstar_internet`| 
 |![kyivstar_phone](https://static.openfintech.io/payout_methods/kyivstar_phone/logo.svg?w=400&c=v0.59.26#w24) |[**Kyivstar (by phone number)**](kyivstar_phone/)|`kyivstar_phone`| 
 |![kzhep-24](https://static.openfintech.io/payout_methods/kzhep-24/logo.png?w=400&c=v0.59.26#w24) |[**KEKEP number 24**](kzhep-24/)|`kzhep-24`| 
@@ -2230,10 +2229,10 @@
 |![undernet](https://static.openfintech.io/payout_methods/undernet/logo.png?w=400&c=v0.59.26#w24) |[**Undernet**](undernet/)|`undernet`| 
 |![united_overseas_bank](https://static.openfintech.io/payout_methods/united_overseas_bank/logo.svg?w=400&c=v0.59.26#w24) |[**United Overseas Bank**](united_overseas_bank/)|`united_overseas_bank`| 
 |![unitel-iunitel](https://static.openfintech.io/payout_methods/unitel-iunitel/logo.png?w=400&c=v0.59.26#w24) |[**Unitel (Unitel)**](unitel-iunitel/)|`unitel-iunitel`| 
+|![upi](https://static.openfintech.io/payout_methods/upi/logo.svg?w=400&c=v0.59.26#w24) |[**UPI**](upi/)|`upi`| 
 |![upr-kompaniia-zhku-mirts-g-artemovsk](https://static.openfintech.io/payout_methods/upr-kompaniia-zhku-mirts-g-artemovsk/logo.svg?w=400&c=v0.59.26#w24) |[**Упр.компания ЖКУ МИРЦ г.Артемовск**](upr-kompaniia-zhku-mirts-g-artemovsk/)|`upr-kompaniia-zhku-mirts-g-artemovsk`| 
 |![upravlenie-gorodskim-khoziaistvom-g-vishneve](https://static.openfintech.io/payout_methods/upravlenie-gorodskim-khoziaistvom-g-vishneve/logo.png?w=400&c=v0.59.26#w24) |[**Urban Management (Vishneve)**](upravlenie-gorodskim-khoziaistvom-g-vishneve/)|`upravlenie-gorodskim-khoziaistvom-g-vishneve`| 
 |![upravlinnia-politsiyi-okhoroni-v-m-kievi](https://static.openfintech.io/payout_methods/upravlinnia-politsiyi-okhoroni-v-m-kievi/logo.png?w=400&c=v0.59.26#w24) |[**POLICE DEPARTMENT OF POLICE PROTECTION IN KIEV**](upravlinnia-politsiyi-okhoroni-v-m-kievi/)|`upravlinnia-politsiyi-okhoroni-v-m-kievi`| 
-|![usdt](https://static.openfintech.io/payout_methods/usdt/logo.svg?w=400&c=v0.59.26#w24) |[**Tether (Deprecated)**](usdt/)|`usdt`| 
 |![uteam-ivano-frankivsk](https://static.openfintech.io/payout_methods/uteam-ivano-frankivsk/logo.png?w=400&c=v0.59.26#w24) |[**Uteam (Ivano-Frankivsk)**](uteam-ivano-frankivsk/)|`uteam-ivano-frankivsk`| 
 |![utels-g-kiev](https://static.openfintech.io/payout_methods/utels-g-kiev/logo.png?w=400&c=v0.59.26#w24) |[**UTELS (Kiev)**](utels-g-kiev/)|`utels-g-kiev`| 
 |![uvaga-tuberkuloz-mbf-tsspm](https://static.openfintech.io/payout_methods/uvaga-tuberkuloz-mbf-tsspm/logo.png?w=400&c=v0.59.26#w24) |[**Attention Tuberculosis - ICF DSPM**](uvaga-tuberkuloz-mbf-tsspm/)|`uvaga-tuberkuloz-mbf-tsspm`| 
@@ -2359,7 +2358,6 @@
 |![xata-net](https://static.openfintech.io/payout_methods/xata-net/logo.png?w=400&c=v0.59.26#w24) |[**Xata Net**](xata-net/)|`xata-net`| 
 |![xbox-live-gift-card-us-10](https://static.openfintech.io/payout_methods/xbox-live-gift-card-us-10/logo.png?w=400&c=v0.59.26#w24) |[**Xbox Live Gift Card (US) $ 10**](xbox-live-gift-card-us-10/)|`xbox-live-gift-card-us-10`| 
 |![xbyte](https://static.openfintech.io/payout_methods/xbyte/logo.png?w=400&c=v0.59.26#w24) |[**XBYTE**](xbyte/)|`xbyte`| 
-|![xpate](https://static.openfintech.io/payout_methods/xpate/logo.svg?w=400&c=v0.59.26#w24) |[**Xpate**](xpate/)|`xpate`| 
 |![xtra-tv](https://static.openfintech.io/payout_methods/xtra-tv/logo.png?w=400&c=v0.59.26#w24) |[**XTRA TV**](xtra-tv/)|`xtra-tv`| 
 || **Y** ||
 |![yandexmoney](https://static.openfintech.io/payout_methods/yandexmoney/logo.svg?w=400&c=v0.59.26#w24) |[**Yandex.Money**](yandexmoney/)|`yandexmoney`| 
