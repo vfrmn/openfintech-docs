@@ -74,7 +74,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![elektronischeslastschriftverfahren](https://static.openfintech.io/payment_methods/elektronischeslastschriftverfahren/icon.png?w=278&c=v0.59.26#w100) |[elektronischeslastschriftverfahren](/payment-methods/elektronischeslastschriftverfahren/)|`elektronischeslastschriftverfahren`| 
 |![trustly](https://static.openfintech.io/payment_methods/trustly/icon.png?w=278&c=v0.59.26#w100) |[trustly](/payment-methods/trustly/)|`trustly`| 
 |![bank_transfer_klarna](https://static.openfintech.io/payment_methods/bank_transfer_klarna/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_klarna](/payment-methods/bank_transfer_klarna/)|`bank_transfer_klarna`| 
-|![7eleven](https://static.openfintech.io/payment_methods/7eleven/icon.png?w=278&c=v0.59.26#w100) |[7eleven](/payment-methods/7eleven/)|`7eleven`| 
+|![7eleven](https://static.openfintech.io/payment_methods/7eleven/icon.svg?w=278&c=v0.59.26#w100) |[7eleven](/payment-methods/7eleven/)|`7eleven`| 
 |![pagofacil](https://static.openfintech.io/payment_methods/pagofacil/icon.png?w=278&c=v0.59.26#w100) |[pagofacil](/payment-methods/pagofacil/)|`pagofacil`| 
 |![przelewy24](https://static.openfintech.io/payment_methods/przelewy24/icon.png?w=278&c=v0.59.26#w100) |[przelewy24](/payment-methods/przelewy24/)|`przelewy24`| 
 |![sofortbanking](https://static.openfintech.io/payment_methods/sofortbanking/icon.svg?w=278&c=v0.59.26#w100) |[sofortbanking](/payment-methods/sofortbanking/)|`sofortbanking`| 

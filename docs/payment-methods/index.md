@@ -6,7 +6,7 @@
 || **2** ||
 |![247billpay](https://static.openfintech.io/payment_methods/247billpay/logo.png?w=400&c=v0.59.26#w200) |[**24-7 Bill Pay**](247billpay/)|`247billpay`| 
 || **7** ||
-|![7eleven](https://static.openfintech.io/payment_methods/7eleven/logo.png?w=400&c=v0.59.26#w200) |[**7-Eleven**](7eleven/)|`7eleven`| 
+|![7eleven](https://static.openfintech.io/payment_methods/7eleven/logo.svg?w=400&c=v0.59.26#w200) |[**7-Eleven**](7eleven/)|`7eleven`| 
 || **A** ||
 |![abaqoos](https://static.openfintech.io/payment_methods/abaqoos/logo.png?w=400&c=v0.59.26#w200) |[**Abaqoos**](abaqoos/)|`abaqoos`| 
 |![acb_bank](https://static.openfintech.io/payment_methods/acb_bank/logo.svg?w=400&c=v0.59.26#w200) |[**ACB Bank**](acb_bank/)|`acb_bank`| 
