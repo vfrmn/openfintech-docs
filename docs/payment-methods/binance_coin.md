@@ -41,15 +41,6 @@ The list of [Payment Services](/payment-services/) based on the _Binance Coin_
 |![binance_coin](https://static.openfintech.io/payment_methods/binance_coin/icon.svg?w=278&c=v0.59.26#w100) |[binance_coin_bnb_hpp](/payment-services/binance_coin_bnb_hpp/)|`binance_coin_bnb_hpp`| 
  
 
-## Payment Providers 
- 
-The list of [Payment Providers](/payment-providers/) that support the _Binance Coin_ 
-
-|Icon|Name|Code| 
-|:---:|:---:|:---:| 
-|![changcoinspay](https://static.openfintech.io/payment_providers/changcoinspay/icon.png?w=278&c=v0.59.26#w100) |[ChangcoinsPay](/payment-providers/changcoinspay/)|`changcoinspay`| 
- 
-
 ## JSON Object 
 
 ```json

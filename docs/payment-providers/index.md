@@ -122,7 +122,6 @@
 |![ccvpay](https://static.openfintech.io/payment_providers/ccvpay/logo.png?w=600&c=v0.59.26#w100) |[**CCV Pay**](ccvpay/)|`ccvpay`| 
 |![centus](https://static.openfintech.io/payment_providers/centus/logo.png?w=600&c=v0.59.26#w100) |[**Centus**](centus/)|`centus`| 
 |![certusfinance](https://static.openfintech.io/payment_providers/certusfinance/logo.png?w=600&c=v0.59.26#w100) |[**Certus Finance**](certusfinance/)|`certusfinance`| 
-|![changcoinspay](https://static.openfintech.io/payment_providers/changcoinspay/logo.png?w=600&c=v0.59.26#w100) |[**ChangcoinsPay**](changcoinspay/)|`changcoinspay`| 
 |![charityclear](https://static.openfintech.io/payment_providers/charityclear/logo.png?w=600&c=v0.59.26#w100) |[**CharityClear**](charityclear/)|`charityclear`| 
 |![chasepaymentech](https://static.openfintech.io/payment_providers/chasepaymentech/logo.png?w=600&c=v0.59.26#w100) |[**J.P. Morgan Commerce Solutions**](chasepaymentech/)|`chasepaymentech`| 
 |![checkalt](https://static.openfintech.io/payment_providers/checkalt/logo.svg?w=600&c=v0.59.26#w100) |[**CheckAlt Payment Solutions**](checkalt/)|`checkalt`| 
@@ -364,7 +363,6 @@
 |![mondido](https://static.openfintech.io/payment_providers/mondido/logo.png?w=600&c=v0.59.26#w100) |[**Mondido**](mondido/)|`mondido`| 
 |![monetaru](https://static.openfintech.io/payment_providers/monetaru/logo.png?w=600&c=v0.59.26#w100) |[**Moneta.RU**](monetaru/)|`monetaru`| 
 |![moneymovers](https://static.openfintech.io/payment_providers/moneymovers/logo.svg?w=600&c=v0.59.26#w100) |[**MoneyMovers**](moneymovers/)|`moneymovers`| 
-|![moneypay](https://static.openfintech.io/payment_providers/moneypay/logo.png?w=600&c=v0.59.26#w100) |[**MoneyPay**](moneypay/)|`moneypay`| 
 |![mopay](https://static.openfintech.io/payment_providers/mopay/logo.png?w=600&c=v0.59.26#w100) |[**mopay**](mopay/)|`mopay`| 
 |![mozcompayeasy](https://static.openfintech.io/payment_providers/mozcompayeasy/logo.png?w=600&c=v0.59.26#w100) |[**Mozcom PayEasy**](mozcompayeasy/)|`mozcompayeasy`| 
 |![mpay24](https://static.openfintech.io/payment_providers/mpay24/logo.png?w=600&c=v0.59.26#w100) |[**mPay24**](mpay24/)|`mpay24`| 
