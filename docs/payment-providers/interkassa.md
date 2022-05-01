@@ -57,6 +57,57 @@ The list of supported [Payment Methods](/payment-methods/)
 |![psbretail](https://static.openfintech.io/payment_methods/psbretail/icon.png?w=278&c=v0.59.26#w100) |[psbretail](/payment-methods/psbretail/)|`psbretail`| 
 |![easypay](https://static.openfintech.io/payment_methods/easypay/icon.png?w=278&c=v0.59.26#w100) |[easypay](/payment-methods/easypay/)|`easypay`| 
 |![mminvoicing](https://static.openfintech.io/payment_methods/mminvoicing/icon.png?w=278&c=v0.59.26#w100) |[mminvoicing](/payment-methods/mminvoicing/)|`mminvoicing`| 
+|![advcash](https://static.openfintech.io/payment_methods/advcash/icon.svg?w=278&c=v0.59.26#w100) |[advcash](/payment-methods/advcash/)|`advcash`| 
+|![upi_aggregated](https://static.openfintech.io/payment_methods/upi_aggregated/icon.svg?w=278&c=v0.59.26#w100) |[upi_aggregated](/payment-methods/upi_aggregated/)|`upi_aggregated`| 
+|![bank_of_india](https://static.openfintech.io/payment_methods/bank_of_india/icon.svg?w=278&c=v0.59.26#w100) |[bank_of_india](/payment-methods/bank_of_india/)|`bank_of_india`| 
+|![maharashtra_bank_india](https://static.openfintech.io/payment_methods/maharashtra_bank_india/icon.svg?w=278&c=v0.59.26#w100) |[maharashtra_bank_india](/payment-methods/maharashtra_bank_india/)|`maharashtra_bank_india`| 
+|![canara_bank](https://static.openfintech.io/payment_methods/canara_bank/icon.svg?w=278&c=v0.59.26#w100) |[canara_bank](/payment-methods/canara_bank/)|`canara_bank`| 
+|![central_bank_of_india](https://static.openfintech.io/payment_methods/central_bank_of_india/icon.png?w=278&c=v0.59.26#w100) |[central_bank_of_india](/payment-methods/central_bank_of_india/)|`central_bank_of_india`| 
+|![union_bank_of_india](https://static.openfintech.io/payment_methods/union_bank_of_india/icon.svg?w=278&c=v0.59.26#w100) |[union_bank_of_india](/payment-methods/union_bank_of_india/)|`union_bank_of_india`| 
+|![cosmos_bank_india](https://static.openfintech.io/payment_methods/cosmos_bank_india/icon.png?w=278&c=v0.59.26#w100) |[cosmos_bank_india](/payment-methods/cosmos_bank_india/)|`cosmos_bank_india`| 
+|![deutsche_bank_india](https://static.openfintech.io/payment_methods/deutsche_bank_india/icon.png?w=278&c=v0.59.26#w100) |[deutsche_bank_india](/payment-methods/deutsche_bank_india/)|`deutsche_bank_india`| 
+|![dcb_bank_india](https://static.openfintech.io/payment_methods/dcb_bank_india/icon.png?w=278&c=v0.59.26#w100) |[dcb_bank_india](/payment-methods/dcb_bank_india/)|`dcb_bank_india`| 
+|![dhanalaxmi_bank_india](https://static.openfintech.io/payment_methods/dhanalaxmi_bank_india/icon.png?w=278&c=v0.59.26#w100) |[dhanalaxmi_bank_india](/payment-methods/dhanalaxmi_bank_india/)|`dhanalaxmi_bank_india`| 
+|![federal_bank_india](https://static.openfintech.io/payment_methods/federal_bank_india/icon.png?w=278&c=v0.59.26#w100) |[federal_bank_india](/payment-methods/federal_bank_india/)|`federal_bank_india`| 
+|![hdfc_bank](https://static.openfintech.io/payment_methods/hdfc_bank/icon.svg?w=278&c=v0.59.26#w100) |[hdfc_bank](/payment-methods/hdfc_bank/)|`hdfc_bank`| 
+|![icici_bank](https://static.openfintech.io/payment_methods/icici_bank/icon.svg?w=278&c=v0.59.26#w100) |[icici_bank](/payment-methods/icici_bank/)|`icici_bank`| 
+|![idfc_bank_india](https://static.openfintech.io/payment_methods/idfc_bank_india/icon.svg?w=278&c=v0.59.26#w100) |[idfc_bank_india](/payment-methods/idfc_bank_india/)|`idfc_bank_india`| 
+|![indian_bank](https://static.openfintech.io/payment_methods/indian_bank/icon.svg?w=278&c=v0.59.26#w100) |[indian_bank](/payment-methods/indian_bank/)|`indian_bank`| 
+|![indian_overseas_bank](https://static.openfintech.io/payment_methods/indian_overseas_bank/icon.png?w=278&c=v0.59.26#w100) |[indian_overseas_bank](/payment-methods/indian_overseas_bank/)|`indian_overseas_bank`| 
+|![indusind_bank](https://static.openfintech.io/payment_methods/indusind_bank/icon.png?w=278&c=v0.59.26#w100) |[indusind_bank](/payment-methods/indusind_bank/)|`indusind_bank`| 
+|![idbi_bank](https://static.openfintech.io/payment_methods/idbi_bank/icon.svg?w=278&c=v0.59.26#w100) |[idbi_bank](/payment-methods/idbi_bank/)|`idbi_bank`| 
+|![j_k_bank_india](https://static.openfintech.io/payment_methods/j_k_bank_india/icon.png?w=278&c=v0.59.26#w100) |[j_k_bank_india](/payment-methods/j_k_bank_india/)|`j_k_bank_india`| 
+|![karnataka_bank](https://static.openfintech.io/payment_methods/karnataka_bank/icon.svg?w=278&c=v0.59.26#w100) |[karnataka_bank](/payment-methods/karnataka_bank/)|`karnataka_bank`| 
+|![karurvysya_bank_india](https://static.openfintech.io/payment_methods/karurvysya_bank_india/icon.svg?w=278&c=v0.59.26#w100) |[karurvysya_bank_india](/payment-methods/karurvysya_bank_india/)|`karurvysya_bank_india`| 
+|![kotak_mahindra_bank](https://static.openfintech.io/payment_methods/kotak_mahindra_bank/icon.png?w=278&c=v0.59.26#w100) |[kotak_mahindra_bank](/payment-methods/kotak_mahindra_bank/)|`kotak_mahindra_bank`| 
+|![lakshmi_vilas_bank_india](https://static.openfintech.io/payment_methods/lakshmi_vilas_bank_india/icon.png?w=278&c=v0.59.26#w100) |[lakshmi_vilas_bank_india](/payment-methods/lakshmi_vilas_bank_india/)|`lakshmi_vilas_bank_india`| 
+|![punjab_national_bank](https://static.openfintech.io/payment_methods/punjab_national_bank/icon.svg?w=278&c=v0.59.26#w100) |[punjab_national_bank](/payment-methods/punjab_national_bank/)|`punjab_national_bank`| 
+|![shamrao_vithal_cooperative_bank_india](https://static.openfintech.io/payment_methods/shamrao_vithal_cooperative_bank_india/icon.png?w=278&c=v0.59.26#w100) |[shamrao_vithal_cooperative_bank_india](/payment-methods/shamrao_vithal_cooperative_bank_india/)|`shamrao_vithal_cooperative_bank_india`| 
+|![south_indian_bank](https://static.openfintech.io/payment_methods/south_indian_bank/icon.png?w=278&c=v0.59.26#w100) |[south_indian_bank](/payment-methods/south_indian_bank/)|`south_indian_bank`| 
+|![state_bank_of_india](https://static.openfintech.io/payment_methods/state_bank_of_india/icon.svg?w=278&c=v0.59.26#w100) |[state_bank_of_india](/payment-methods/state_bank_of_india/)|`state_bank_of_india`| 
+|![tamilnad_mercantile_bank_india](https://static.openfintech.io/payment_methods/tamilnad_mercantile_bank_india/icon.png?w=278&c=v0.59.26#w100) |[tamilnad_mercantile_bank_india](/payment-methods/tamilnad_mercantile_bank_india/)|`tamilnad_mercantile_bank_india`| 
+|![uco_bank_india](https://static.openfintech.io/payment_methods/uco_bank_india/icon.png?w=278&c=v0.59.26#w100) |[uco_bank_india](/payment-methods/uco_bank_india/)|`uco_bank_india`| 
+|![yes_bank](https://static.openfintech.io/payment_methods/yes_bank/icon.svg?w=278&c=v0.59.26#w100) |[yes_bank](/payment-methods/yes_bank/)|`yes_bank`| 
+|![paytm](https://static.openfintech.io/payment_methods/paytm/icon.svg?w=278&c=v0.59.26#w100) |[paytm](/payment-methods/paytm/)|`paytm`| 
+|![mobikwik](https://static.openfintech.io/payment_methods/mobikwik/icon.png?w=278&c=v0.59.26#w100) |[mobikwik](/payment-methods/mobikwik/)|`mobikwik`| 
+|![airtel_money](https://static.openfintech.io/payment_methods/airtel_money/icon.png?w=278&c=v0.59.26#w100) |[airtel_money](/payment-methods/airtel_money/)|`airtel_money`| 
+|![reliance_jio](https://static.openfintech.io/payment_methods/reliance_jio/icon.svg?w=278&c=v0.59.26#w100) |[reliance_jio](/payment-methods/reliance_jio/)|`reliance_jio`| 
+|![olamoney](https://static.openfintech.io/payment_methods/olamoney/icon.png?w=278&c=v0.59.26#w100) |[olamoney](/payment-methods/olamoney/)|`olamoney`| 
+|![freecharge](https://static.openfintech.io/payment_methods/freecharge/icon.svg?w=278&c=v0.59.26#w100) |[freecharge](/payment-methods/freecharge/)|`freecharge`| 
+|![phonepe](https://static.openfintech.io/payment_methods/phonepe/icon.svg?w=278&c=v0.59.26#w100) |[phonepe](/payment-methods/phonepe/)|`phonepe`| 
+|![allahabad_bank](https://static.openfintech.io/payment_methods/allahabad_bank/icon.svg?w=278&c=v0.59.26#w100) |[allahabad_bank](/payment-methods/allahabad_bank/)|`allahabad_bank`| 
+|![axis_bank](https://static.openfintech.io/payment_methods/axis_bank/icon.svg?w=278&c=v0.59.26#w100) |[axis_bank](/payment-methods/axis_bank/)|`axis_bank`| 
+|![corporation_bank](https://static.openfintech.io/payment_methods/corporation_bank/icon.svg?w=278&c=v0.59.26#w100) |[corporation_bank](/payment-methods/corporation_bank/)|`corporation_bank`| 
+|![oriental_bank_of_commerce](https://static.openfintech.io/payment_methods/oriental_bank_of_commerce/icon.svg?w=278&c=v0.59.26#w100) |[oriental_bank_of_commerce](/payment-methods/oriental_bank_of_commerce/)|`oriental_bank_of_commerce`| 
+|![city_union_bank](https://static.openfintech.io/payment_methods/city_union_bank/icon.svg?w=278&c=v0.59.26#w100) |[city_union_bank](/payment-methods/city_union_bank/)|`city_union_bank`| 
+|![vijaya_bank](https://static.openfintech.io/payment_methods/vijaya_bank/icon.svg?w=278&c=v0.59.26#w100) |[vijaya_bank](/payment-methods/vijaya_bank/)|`vijaya_bank`| 
+|![united_bank_of_india](https://static.openfintech.io/payment_methods/united_bank_of_india/icon.svg?w=278&c=v0.59.26#w100) |[united_bank_of_india](/payment-methods/united_bank_of_india/)|`united_bank_of_india`| 
+|![state_bank_of_india](https://static.openfintech.io/payment_methods/state_bank_of_india/icon.svg?w=278&c=v0.59.26#w100) |[state_bank_of_india](/payment-methods/state_bank_of_india/)|`state_bank_of_india`| 
+|![rbl_bank](https://static.openfintech.io/payment_methods/rbl_bank/icon.png?w=278&c=v0.59.26#w100) |[rbl_bank](/payment-methods/rbl_bank/)|`rbl_bank`| 
+|![andhra_bank](https://static.openfintech.io/payment_methods/andhra_bank/icon.svg?w=278&c=v0.59.26#w100) |[andhra_bank](/payment-methods/andhra_bank/)|`andhra_bank`| 
+|![bank_of_baroda](https://static.openfintech.io/payment_methods/bank_of_baroda/icon.svg?w=278&c=v0.59.26#w100) |[bank_of_baroda](/payment-methods/bank_of_baroda/)|`bank_of_baroda`| 
+|![csb_bank](https://static.openfintech.io/payment_methods/csb_bank/icon.png?w=278&c=v0.59.26#w100) |[csb_bank](/payment-methods/csb_bank/)|`csb_bank`| 
+|![au_small_finance_bank](https://static.openfintech.io/payment_methods/au_small_finance_bank/icon.png?w=278&c=v0.59.26#w100) |[au_small_finance_bank](/payment-methods/au_small_finance_bank/)|`au_small_finance_bank`| 
  
 
 ## Payout Methods 
@@ -97,7 +148,58 @@ The list of supported [Payout Methods](/payout-methods/)
     "alfaclick",
     "psbretail",
     "easypay",
-    "mminvoicing"
+    "mminvoicing",
+    "advcash",
+    "upi_aggregated",
+    "bank_of_india",
+    "maharashtra_bank_india",
+    "canara_bank",
+    "central_bank_of_india",
+    "union_bank_of_india",
+    "cosmos_bank_india",
+    "deutsche_bank_india",
+    "dcb_bank_india",
+    "dhanalaxmi_bank_india",
+    "federal_bank_india",
+    "hdfc_bank",
+    "icici_bank",
+    "idfc_bank_india",
+    "indian_bank",
+    "indian_overseas_bank",
+    "indusind_bank",
+    "idbi_bank",
+    "j_k_bank_india",
+    "karnataka_bank",
+    "karurvysya_bank_india",
+    "kotak_mahindra_bank",
+    "lakshmi_vilas_bank_india",
+    "punjab_national_bank",
+    "shamrao_vithal_cooperative_bank_india",
+    "south_indian_bank",
+    "state_bank_of_india",
+    "tamilnad_mercantile_bank_india",
+    "uco_bank_india",
+    "yes_bank",
+    "paytm",
+    "mobikwik",
+    "airtel_money",
+    "reliance_jio",
+    "olamoney",
+    "freecharge",
+    "phonepe",
+    "allahabad_bank",
+    "axis_bank",
+    "corporation_bank",
+    "oriental_bank_of_commerce",
+    "city_union_bank",
+    "vijaya_bank",
+    "united_bank_of_india",
+    "state_bank_of_india",
+    "rbl_bank",
+    "andhra_bank",
+    "bank_of_baroda",
+    "csb_bank",
+    "au_small_finance_bank"
   ],
   "payout_method":[
     "payment_card",

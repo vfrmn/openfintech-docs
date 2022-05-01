@@ -245,6 +245,7 @@
 |![ETB](https://static.openfintech.io/currencies/ETB/icon.svg?w=278&c=v0.59.26#w100) |[**Ethiopian Birr**](ETB/)|`ETB`| 
 |![ETC](https://static.openfintech.io/currencies/ETC/icon.png?w=278&c=v0.59.26#w100) |[**ETC**](ETC/)|`ETC`| 
 |![ETH](https://static.openfintech.io/currencies/ETH/icon.png?w=278&c=v0.59.26#w100) |[**ETH**](ETH/)|`ETH`| 
+|![EUR](https://static.openfintech.io/currencies/EUR/icon.svg?w=278&c=v0.59.26#w100) |[**Euro**](EUR/)|`EUR`| 
 |![EURBKZT](https://static.openfintech.io/currencies/EURBKZT/icon.svg?w=278&c=v0.59.26#w100) |[**EURBKZT**](EURBKZT/)|`EURBKZT`| 
 |![EURBUSD](https://static.openfintech.io/currencies/EURBUSD/icon.svg?w=278&c=v0.59.26#w100) |[**EURBUSD**](EURBUSD/)|`EURBUSD`| 
 |![EXMBTC](https://static.openfintech.io/currencies/EXMBTC/icon.svg?w=278&c=v0.59.26#w100) |[**EXMBTC**](EXMBTC/)|`EXMBTC`| 
@@ -716,6 +717,7 @@
 |![VUV](https://static.openfintech.io/currencies/VUV/icon.svg?w=278&c=v0.59.26#w100) |[**Vatu**](VUV/)|`VUV`| 
 |![VZRDBRUB](https://static.openfintech.io/currencies/VZRDBRUB/icon.svg?w=278&c=v0.59.26#w100) |[**VZRDBRUB**](VZRDBRUB/)|`VZRDBRUB`| 
 || **W** ||
+|![WAVES](https://static.openfintech.io/currencies/WAVES/icon.svg?w=278&c=v0.59.26#w100) |[**WAVES**](WAVES/)|`WAVES`| 
 |![WCEUR](https://static.openfintech.io/currencies/WCEUR/icon.svg?w=278&c=v0.59.26#w100) |[**WCEUR**](WCEUR/)|`WCEUR`| 
 |![WCRUB](https://static.openfintech.io/currencies/WCRUB/icon.svg?w=278&c=v0.59.26#w100) |[**WCRUB**](WCRUB/)|`WCRUB`| 
 |![WCTCNY](https://static.openfintech.io/currencies/WCTCNY/icon.svg?w=278&c=v0.59.26#w100) |[**WCTCNY**](WCTCNY/)|`WCTCNY`| 
@@ -744,6 +746,7 @@
 |![WMC](https://static.openfintech.io/currencies/WMC/icon.svg?w=278&c=v0.59.26#w100) |[**WMC**](WMC/)|`WMC`| 
 |![WME](https://static.openfintech.io/currencies/WME/icon.svg?w=278&c=v0.59.26#w100) |[**WME**](WME/)|`WME`| 
 |![WMG](https://static.openfintech.io/currencies/WMG/icon.svg?w=278&c=v0.59.26#w100) |[**WMG**](WMG/)|`WMG`| 
+|![WMH](https://static.openfintech.io/currencies/WMH/icon.svg?w=278&c=v0.59.26#w100) |[**WMH**](WMH/)|`WMH`| 
 |![WMK](https://static.openfintech.io/currencies/WMK/icon.svg?w=278&c=v0.59.26#w100) |[**WMK**](WMK/)|`WMK`| 
 |![WML](https://static.openfintech.io/currencies/WML/icon.svg?w=278&c=v0.59.26#w100) |[**WML**](WML/)|`WML`| 
 |![WMORUB](https://static.openfintech.io/currencies/WMORUB/icon.svg?w=278&c=v0.59.26#w100) |[**WMORUB**](WMORUB/)|`WMORUB`| 

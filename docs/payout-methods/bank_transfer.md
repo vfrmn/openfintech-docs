@@ -51,6 +51,7 @@ The list of [Payout Services](/payout-services/) based on the _Bank Transfer_
 |![bank_transfer](https://static.openfintech.io/payout_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer_myr](/payout-services/bank_transfer_myr/)|`bank_transfer_myr`| 
 |![bank_transfer](https://static.openfintech.io/payout_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer_thb](/payout-services/bank_transfer_thb/)|`bank_transfer_thb`| 
 |![bank_transfer](https://static.openfintech.io/payout_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer_vnd](/payout-services/bank_transfer_vnd/)|`bank_transfer_vnd`| 
+|![bank_transfer](https://static.openfintech.io/payout_methods/bank_transfer/icon.svg?w=278&c=v0.59.26#w40) |[bank_transfer_jpy](/payout-services/bank_transfer_jpy/)|`bank_transfer_jpy`| 
  
 
 ## Payment Providers 
@@ -61,6 +62,8 @@ The list of [Payment Providers](/payment-providers/) that support the _Bank Tran
 |:---:|:---:|:---:| 
 |![zotapay](https://static.openfintech.io/payment_providers/zotapay/icon.png?w=278&c=v0.59.26#w100) |[Zotapay](/payment-providers/zotapay/)|`zotapay`| 
 |![manual](https://static.openfintech.io/payment_providers/manual/icon.svg?w=278&c=v0.59.26#w100) |[Manual](/payment-providers/manual/)|`manual`| 
+|![ezeebill](https://static.openfintech.io/payment_providers/ezeebill/icon.svg?w=278&c=v0.59.26#w100) |[Ezeebill](/payment-providers/ezeebill/)|`ezeebill`| 
+|![jeton](https://static.openfintech.io/payment_providers/jeton/icon.png?w=278&c=v0.59.26#w100) |[Jeton](/payment-providers/jeton/)|`jeton`| 
  
 
 ## JSON Object 

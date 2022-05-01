@@ -1,5 +1,5 @@
 
-# Cash (service) 
+# CASH (service) 
 ![cash_aud_invoice](https://static.openfintech.io/payment_methods/cash_aud_invoice/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -13,9 +13,7 @@
  
 **Name:** 
  
-:	[EN] Cash 
-:	[RU] Наличные 
-:	[UK] Готівка 
+:	[EN] CASH 
  
 **Amount limits:** from `0.01` to `100000` AUD 
 

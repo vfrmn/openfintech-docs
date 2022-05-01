@@ -1,5 +1,5 @@
 
-# KP 'Porto-Frankivsk' (Odessa) (service) 
+# КП "ПОРТО-ФРАНКІВСЬКИЙ" (Одеса) (service) 
 ![kp-porto-frankivskii-odesa_uah](https://static.openfintech.io/payout_methods/kp-porto-frankivskii-odesa_uah/logo.svg?w=400&c=v0.59.26#w24)  
 
 ## General 
@@ -12,9 +12,9 @@
  
 **Name:** 
  
-:	[EN] KP 'Porto-Frankivsk' (Odessa) 
-:	[RU] КП 'Порто-Франковский' (Одесса) 
-:	[UK] КП 'Порто-Франківський' (Одеса) 
+:	[EN] КП "ПОРТО-ФРАНКІВСЬКИЙ" (Одеса) 
+:	[RU] КП "ПОРТО-ФРАНКІВСЬКИЙ" (Одеса) 
+:	[UK] КП "ПОРТО-ФРАНКІВСЬКИЙ" (Одеса) 
  
 **Amount limits:** from `2.00` to `14999.00` UAH 
 

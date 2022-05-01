@@ -41,6 +41,15 @@ The list of [Payment Services](/payment-services/) based on the _Dogecoin_
 |![dogecoin](https://static.openfintech.io/payment_methods/dogecoin/icon.svg?w=278&c=v0.59.26#w100) |[dogecoin_doge_hpp](/payment-services/dogecoin_doge_hpp/)|`dogecoin_doge_hpp`| 
  
 
+## Payment Providers 
+ 
+The list of [Payment Providers](/payment-providers/) that support the _Dogecoin_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![changecoins](https://static.openfintech.io/payment_providers/changecoins/icon.png?w=278&c=v0.59.26#w100) |[ChangeCoins](/payment-providers/changecoins/)|`changecoins`| 
+ 
+
 ## JSON Object 
 
 ```json

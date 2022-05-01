@@ -39,6 +39,15 @@ The list of [Payout Services](/payout-services/) based on the _UPI_
 |![upi](https://static.openfintech.io/payout_methods/upi/icon.svg?w=278&c=v0.59.26#w40) |[upi_inr](/payout-services/upi_inr/)|`upi_inr`| 
  
 
+## Payment Providers 
+ 
+The list of [Payment Providers](/payment-providers/) that support the _UPI_ 
+
+|Icon|Name|Code| 
+|:---:|:---:|:---:| 
+|![10pay](https://static.openfintech.io/payment_providers/10pay/icon.svg?w=278&c=v0.59.26#w100) |[10Pay](/payment-providers/10pay/)|`10pay`| 
+ 
+
 ## JSON Object 
 
 ```json

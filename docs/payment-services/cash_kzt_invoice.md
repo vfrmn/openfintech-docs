@@ -1,5 +1,5 @@
 
-# Cash (service) 
+# CASH (service) 
 ![cash_kzt_invoice](https://static.openfintech.io/payment_methods/cash_kzt_invoice/logo.svg?w=400&c=v0.59.26#w200)  
 
 ## General 
@@ -13,9 +13,7 @@
  
 **Name:** 
  
-:	[EN] Cash 
-:	[RU] Наличные 
-:	[UK] Готівка 
+:	[EN] CASH 
  
 **Amount limits:** from `0.01` to `10000000` KZT 
 

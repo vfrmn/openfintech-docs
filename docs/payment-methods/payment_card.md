@@ -75,6 +75,12 @@ The list of [Payment Services](/payment-services/) based on the _Payment card_
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_kgs_hpp](/payment-services/payment_card_kgs_hpp/)|`payment_card_kgs_hpp`| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_kzt_hpp](/payment-services/payment_card_kzt_hpp/)|`payment_card_kzt_hpp`| 
 |![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_amd_hpp](/payment-services/payment_card_amd_hpp/)|`payment_card_amd_hpp`| 
+|![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_ttd_hpp](/payment-services/payment_card_ttd_hpp/)|`payment_card_ttd_hpp`| 
+|![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_brl_hpp](/payment-services/payment_card_brl_hpp/)|`payment_card_brl_hpp`| 
+|![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_idr_hpp](/payment-services/payment_card_idr_hpp/)|`payment_card_idr_hpp`| 
+|![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_myr_hpp](/payment-services/payment_card_myr_hpp/)|`payment_card_myr_hpp`| 
+|![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_pen_hpp](/payment-services/payment_card_pen_hpp/)|`payment_card_pen_hpp`| 
+|![payment_card](https://static.openfintech.io/payment_methods/payment_card/icon.svg?w=278&c=v0.59.26#w100) |[payment_card_clp_hpp](/payment-services/payment_card_clp_hpp/)|`payment_card_clp_hpp`| 
  
 
 ## Payment Providers 
@@ -86,13 +92,13 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![cxpay](https://static.openfintech.io/payment_providers/cxpay/icon.png?w=278&c=v0.59.26#w100) |[CX Pay](/payment-providers/cxpay/)|`cxpay`| 
 |![sisow](https://static.openfintech.io/payment_providers/sisow/icon.png?w=278&c=v0.59.26#w100) |[Sisow](/payment-providers/sisow/)|`sisow`| 
 |![omnipayment](https://static.openfintech.io/payment_providers/omnipayment/icon.png?w=278&c=v0.59.26#w100) |[OmniPayment](/payment-providers/omnipayment/)|`omnipayment`| 
+|![4bill](https://static.openfintech.io/payment_providers/4bill/icon.svg?w=278&c=v0.59.26#w100) |[4bill](/payment-providers/4bill/)|`4bill`| 
 |![securionpay](https://static.openfintech.io/payment_providers/securionpay/icon.svg?w=278&c=v0.59.26#w100) |[SecurionPay](/payment-providers/securionpay/)|`securionpay`| 
 |![merchantscout](https://static.openfintech.io/payment_providers/merchantscout/icon.png?w=278&c=v0.59.26#w100) |[MerchantScout](/payment-providers/merchantscout/)|`merchantscout`| 
 |![zotapay](https://static.openfintech.io/payment_providers/zotapay/icon.png?w=278&c=v0.59.26#w100) |[Zotapay](/payment-providers/zotapay/)|`zotapay`| 
 |![1pay](https://static.openfintech.io/payment_providers/1pay/icon.png?w=278&c=v0.59.26#w100) |[1Pay](/payment-providers/1pay/)|`1pay`| 
 |![qiwi](https://static.openfintech.io/payment_providers/qiwi/icon.svg?w=278&c=v0.59.26#w100) |[Qiwi](/payment-providers/qiwi/)|`qiwi`| 
 |![paymentgarage](https://static.openfintech.io/payment_providers/paymentgarage/icon.png?w=278&c=v0.59.26#w100) |[PaymentGarage](/payment-providers/paymentgarage/)|`paymentgarage`| 
-|![firstatlanticcommerce](https://static.openfintech.io/payment_providers/firstatlanticcommerce/icon.png?w=278&c=v0.59.26#w100) |[First Atlantic Commerce](/payment-providers/firstatlanticcommerce/)|`firstatlanticcommerce`| 
 |![digitalriverworldpayments](https://static.openfintech.io/payment_providers/digitalriverworldpayments/icon.png?w=278&c=v0.59.26#w100) |[Digital River World Payments](/payment-providers/digitalriverworldpayments/)|`digitalriverworldpayments`| 
 |![paybox](https://static.openfintech.io/payment_providers/paybox/icon.svg?w=278&c=v0.59.26#w100) |[Paybox](/payment-providers/paybox/)|`paybox`| 
 |![123x](https://static.openfintech.io/payment_providers/123x/icon.png?w=278&c=v0.59.26#w100) |[123x](/payment-providers/123x/)|`123x`| 
@@ -113,13 +119,13 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![cardpay](https://static.openfintech.io/payment_providers/cardpay/icon.svg?w=278&c=v0.59.26#w100) |[Unlimint](/payment-providers/cardpay/)|`cardpay`| 
 |![portmone](https://static.openfintech.io/payment_providers/portmone/icon.svg?w=278&c=v0.59.26#w100) |[Portmone.com](/payment-providers/portmone/)|`portmone`| 
 |![wirecapital](https://static.openfintech.io/payment_providers/wirecapital/icon.svg?w=278&c=v0.59.26#w100) |[Wirecapital](/payment-providers/wirecapital/)|`wirecapital`| 
-|![ppro](https://static.openfintech.io/payment_providers/ppro/icon.png?w=278&c=v0.59.26#w100) |[PPRO Financial Ltd](/payment-providers/ppro/)|`ppro`| 
 |![comerciaglobalpayments](https://static.openfintech.io/payment_providers/comerciaglobalpayments/icon.png?w=278&c=v0.59.26#w100) |[Comercia Global Payments](/payment-providers/comerciaglobalpayments/)|`comerciaglobalpayments`| 
 |![heidelpay](https://static.openfintech.io/payment_providers/heidelpay/icon.png?w=278&c=v0.59.26#w100) |[Heidelpay](/payment-providers/heidelpay/)|`heidelpay`| 
 |![atosworldline](https://static.openfintech.io/payment_providers/atosworldline/icon.png?w=278&c=v0.59.26#w100) |[Worldline](/payment-providers/atosworldline/)|`atosworldline`| 
 |![ingenicopaymentservices](https://static.openfintech.io/payment_providers/ingenicopaymentservices/icon.png?w=278&c=v0.59.26#w100) |[Ingenico ePayments](/payment-providers/ingenicopaymentservices/)|`ingenicopaymentservices`| 
 |![cngpro](https://static.openfintech.io/payment_providers/cngpro/icon.png?w=278&c=v0.59.26#w100) |[CNG Pro](/payment-providers/cngpro/)|`cngpro`| 
 |![paygol](https://static.openfintech.io/payment_providers/paygol/icon.png?w=278&c=v0.59.26#w100) |[PayGol](/payment-providers/paygol/)|`paygol`| 
+|![commercegate](https://static.openfintech.io/payment_providers/commercegate/icon.svg?w=278&c=v0.59.26#w100) |[CommerceGate](/payment-providers/commercegate/)|`commercegate`| 
 |![interkassa](https://static.openfintech.io/payment_providers/interkassa/icon.svg?w=278&c=v0.59.26#w100) |[Interkassa](/payment-providers/interkassa/)|`interkassa`| 
 |![acapture](https://static.openfintech.io/payment_providers/acapture/icon.png?w=278&c=v0.59.26#w100) |[Acapture](/payment-providers/acapture/)|`acapture`| 
 |![lemonway](https://static.openfintech.io/payment_providers/lemonway/icon.png?w=278&c=v0.59.26#w100) |[Lemon Way](/payment-providers/lemonway/)|`lemonway`| 
@@ -183,7 +189,10 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![abilipay](https://static.openfintech.io/payment_providers/abilipay/icon.png?w=278&c=v0.59.26#w100) |[abilipay](/payment-providers/abilipay/)|`abilipay`| 
 |![wirecard](https://static.openfintech.io/payment_providers/wirecard/icon.svg?w=278&c=v0.59.26#w100) |[Wirecard](/payment-providers/wirecard/)|`wirecard`| 
 |![ipay88](https://static.openfintech.io/payment_providers/ipay88/icon.png?w=278&c=v0.59.26#w100) |[iPay88](/payment-providers/ipay88/)|`ipay88`| 
+|![emerchantpay](https://static.openfintech.io/payment_providers/emerchantpay/icon.svg?w=278&c=v0.59.26#w100) |[EmerchantPay](/payment-providers/emerchantpay/)|`emerchantpay`| 
 |![fibonatix](https://static.openfintech.io/payment_providers/fibonatix/icon.png?w=278&c=v0.59.26#w100) |[Fibonatix](/payment-providers/fibonatix/)|`fibonatix`| 
+|![ecommpay](https://static.openfintech.io/payment_providers/ecommpay/icon.png?w=278&c=v0.59.26#w100) |[ECOMMPAY](/payment-providers/ecommpay/)|`ecommpay`| 
+|![platon](https://static.openfintech.io/payment_providers/platon/icon.svg?w=278&c=v0.59.26#w100) |[PSP Platon](/payment-providers/platon/)|`platon`| 
 |![xpayua](https://static.openfintech.io/payment_providers/xpayua/icon.svg?w=278&c=v0.59.26#w100) |[XPAY](/payment-providers/xpayua/)|`xpayua`| 
 |![paymegaio](https://static.openfintech.io/payment_providers/paymegaio/icon.svg?w=278&c=v0.59.26#w100) |[Paymega.io](/payment-providers/paymegaio/)|`paymegaio`| 
 |![paymentstrust](https://static.openfintech.io/payment_providers/paymentstrust/icon.svg?w=278&c=v0.59.26#w100) |[Payments Trust](/payment-providers/paymentstrust/)|`paymentstrust`| 
@@ -194,12 +203,12 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![decta](https://static.openfintech.io/payment_providers/decta/icon.svg?w=278&c=v0.59.26#w100) |[Decta](/payment-providers/decta/)|`decta`| 
 |![hashconnect](https://static.openfintech.io/payment_providers/hashconnect/icon.png?w=278&c=v0.59.26#w100) |[Hashconnect](/payment-providers/hashconnect/)|`hashconnect`| 
 |![platio](https://static.openfintech.io/payment_providers/platio/icon.svg?w=278&c=v0.59.26#w100) |[Platio](/payment-providers/platio/)|`platio`| 
-|![paymentwall](https://static.openfintech.io/payment_providers/paymentwall/icon.svg?w=278&c=v0.59.26#w100) |[Paymentwall](/payment-providers/paymentwall/)|`paymentwall`| 
 |![piastrix](https://static.openfintech.io/payment_providers/piastrix/icon.svg?w=278&c=v0.59.26#w100) |[Piastrix](/payment-providers/piastrix/)|`piastrix`| 
 |![billline](https://static.openfintech.io/payment_providers/billline/icon.svg?w=278&c=v0.59.26#w100) |[BillLine](/payment-providers/billline/)|`billline`| 
 |![easybits](https://static.openfintech.io/payment_providers/easybits/icon.svg?w=278&c=v0.59.26#w100) |[EasyBits.io](/payment-providers/easybits/)|`easybits`| 
 |![paylink](https://static.openfintech.io/payment_providers/paylink/icon.png?w=278&c=v0.59.26#w100) |[PayLink](/payment-providers/paylink/)|`paylink`| 
 |![cardgate](https://static.openfintech.io/payment_providers/cardgate/icon.svg?w=278&c=v0.59.26#w100) |[CardGate](/payment-providers/cardgate/)|`cardgate`| 
+|![gate](https://static.openfintech.io/payment_providers/gate/icon.svg?w=278&c=v0.59.26#w100) |[Gate](/payment-providers/gate/)|`gate`| 
 |![accentpay](https://static.openfintech.io/payment_providers/accentpay/icon.png?w=278&c=v0.59.26#w100) |[Accentpay](/payment-providers/accentpay/)|`accentpay`| 
 |![connectum](https://static.openfintech.io/payment_providers/connectum/icon.svg?w=278&c=v0.59.26#w100) |[Connectum](/payment-providers/connectum/)|`connectum`| 
 |![odysseq](https://static.openfintech.io/payment_providers/odysseq/icon.svg?w=278&c=v0.59.26#w100) |[Odysseq](/payment-providers/odysseq/)|`odysseq`| 
@@ -209,6 +218,7 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![forwardbank](https://static.openfintech.io/payment_providers/forwardbank/icon.svg?w=278&c=v0.59.26#w100) |[Forward Bank](/payment-providers/forwardbank/)|`forwardbank`| 
 |![genome](https://static.openfintech.io/payment_providers/genome/icon.svg?w=278&c=v0.59.26#w100) |[Genome](/payment-providers/genome/)|`genome`| 
 |![tkbpay](https://static.openfintech.io/payment_providers/tkbpay/icon.svg?w=278&c=v0.59.26#w100) |[TKB Pay](/payment-providers/tkbpay/)|`tkbpay`| 
+|![mercuryo](https://static.openfintech.io/payment_providers/mercuryo/icon.svg?w=278&c=v0.59.26#w100) |[Mercuryo](/payment-providers/mercuryo/)|`mercuryo`| 
 |![paymentwall](https://static.openfintech.io/payment_providers/paymentwall/icon.svg?w=278&c=v0.59.26#w100) |[paymentwall](/payment-providers/paymentwall/)|`paymentwall`| 
 |![wlandpay](https://static.openfintech.io/payment_providers/wlandpay/icon.png?w=278&c=v0.59.26#w100) |[Wlandpay](/payment-providers/wlandpay/)|`wlandpay`| 
 |![exactly](https://static.openfintech.io/payment_providers/exactly/icon.svg?w=278&c=v0.59.26#w100) |[Exactly](/payment-providers/exactly/)|`exactly`| 
@@ -258,6 +268,55 @@ The list of [Payment Providers](/payment-providers/) that support the _Payment c
 |![tinkoff](https://static.openfintech.io/payment_providers/tinkoff/icon.svg?w=278&c=v0.59.26#w100) |[Tinkoff](/payment-providers/tinkoff/)|`tinkoff`| 
 |![ikajo](https://static.openfintech.io/payment_providers/ikajo/icon.svg?w=278&c=v0.59.26#w100) |[Ikajo](/payment-providers/ikajo/)|`ikajo`| 
 |![getapay](https://static.openfintech.io/payment_providers/getapay/icon.svg?w=278&c=v0.59.26#w100) |[GetaPay](/payment-providers/getapay/)|`getapay`| 
+|![moneypay](https://static.openfintech.io/payment_providers/moneypay/icon.png?w=278&c=v0.59.26#w100) |[MoneyPay](/payment-providers/moneypay/)|`moneypay`| 
+|![changecoins](https://static.openfintech.io/payment_providers/changecoins/icon.png?w=278&c=v0.59.26#w100) |[ChangeCoins](/payment-providers/changecoins/)|`changecoins`| 
+|![volt](https://static.openfintech.io/payment_providers/volt/icon.svg?w=278&c=v0.59.26#w100) |[VOLT](/payment-providers/volt/)|`volt`| 
+|![pmsolutions](https://static.openfintech.io/payment_providers/pmsolutions/icon.png?w=278&c=v0.59.26#w100) |[PMSolutions](/payment-providers/pmsolutions/)|`pmsolutions`| 
+|![reel](https://static.openfintech.io/payment_providers/reel/icon.png?w=278&c=v0.59.26#w100) |[REEL](/payment-providers/reel/)|`reel`| 
+|![opay](https://static.openfintech.io/payment_providers/opay/icon.svg?w=278&c=v0.59.26#w100) |[OPay](/payment-providers/opay/)|`opay`| 
+|![whitebit](https://static.openfintech.io/payment_providers/whitebit/icon.svg?w=278&c=v0.59.26#w100) |[WhiteBIT](/payment-providers/whitebit/)|`whitebit`| 
+|![emerald24](https://static.openfintech.io/payment_providers/emerald24/icon.svg?w=278&c=v0.59.26#w100) |[Emerald24](/payment-providers/emerald24/)|`emerald24`| 
+|![decard](https://static.openfintech.io/payment_providers/decard/icon.svg?w=278&c=v0.59.26#w100) |[Decard](/payment-providers/decard/)|`decard`| 
+|![unlimco](https://static.openfintech.io/payment_providers/unlimco/icon.svg?w=278&c=v0.59.26#w100) |[Unlimco](/payment-providers/unlimco/)|`unlimco`| 
+|![constantpos](https://static.openfintech.io/payment_providers/constantpos/icon.svg?w=278&c=v0.59.26#w100) |[Constantpos](/payment-providers/constantpos/)|`constantpos`| 
+|![stepfourpay](https://static.openfintech.io/payment_providers/stepfourpay/icon.svg?w=278&c=v0.59.26#w100) |[Step4Pay](/payment-providers/stepfourpay/)|`stepfourpay`| 
+|![reeves](https://static.openfintech.io/payment_providers/reeves/icon.png?w=278&c=v0.59.26#w100) |[Reeves](/payment-providers/reeves/)|`reeves`| 
+|![eupaymentz](https://static.openfintech.io/payment_providers/eupaymentz/icon.png?w=278&c=v0.59.26#w100) |[EUPaymentz](/payment-providers/eupaymentz/)|`eupaymentz`| 
+|![unonapay](https://static.openfintech.io/payment_providers/unonapay/icon.svg?w=278&c=v0.59.26#w100) |[UNONAPAY](/payment-providers/unonapay/)|`unonapay`| 
+|![1payment](https://static.openfintech.io/payment_providers/1payment/icon.svg?w=278&c=v0.59.26#w100) |[One Payment](/payment-providers/1payment/)|`1payment`| 
+|![payplay](https://static.openfintech.io/payment_providers/payplay/icon.png?w=278&c=v0.59.26#w100) |[PayPlay](/payment-providers/payplay/)|`payplay`| 
+|![realdeposits](https://static.openfintech.io/payment_providers/realdeposits/icon.png?w=278&c=v0.59.26#w100) |[Real Deposits](/payment-providers/realdeposits/)|`realdeposits`| 
+|![payelata](https://static.openfintech.io/payment_providers/payelata/icon.svg?w=278&c=v0.59.26#w100) |[Payelata](/payment-providers/payelata/)|`payelata`| 
+|![payassist](https://static.openfintech.io/payment_providers/payassist/icon.png?w=278&c=v0.59.26#w100) |[PayAssist](/payment-providers/payassist/)|`payassist`| 
+|![infotrend](https://static.openfintech.io/payment_providers/infotrend/icon.png?w=278&c=v0.59.26#w100) |[Infotrend](/payment-providers/infotrend/)|`infotrend`| 
+|![connpay](https://static.openfintech.io/payment_providers/connpay/icon.png?w=278&c=v0.59.26#w100) |[ConnPay](/payment-providers/connpay/)|`connpay`| 
+|![paysoftsolutions](https://static.openfintech.io/payment_providers/paysoftsolutions/icon.png?w=278&c=v0.59.26#w100) |[PaySoft Solutions](/payment-providers/paysoftsolutions/)|`paysoftsolutions`| 
+|![monetix](https://static.openfintech.io/payment_providers/monetix/icon.png?w=278&c=v0.59.26#w100) |[Monetix](/payment-providers/monetix/)|`monetix`| 
+|![pandigitalnetwork](https://static.openfintech.io/payment_providers/pandigitalnetwork/icon.png?w=278&c=v0.59.26#w100) |[Pan Digital Network](/payment-providers/pandigitalnetwork/)|`pandigitalnetwork`| 
+|![oppey](https://static.openfintech.io/payment_providers/oppey/icon.svg?w=278&c=v0.59.26#w100) |[Oppey](/payment-providers/oppey/)|`oppey`| 
+|![firstatlanticcommerce](https://static.openfintech.io/payment_providers/firstatlanticcommerce/icon.png?w=278&c=v0.59.26#w100) |[First Atlantic Commerce](/payment-providers/firstatlanticcommerce/)|`firstatlanticcommerce`| 
+|![cps](https://static.openfintech.io/payment_providers/cps/icon.svg?w=278&c=v0.59.26#w100) |[CPS](/payment-providers/cps/)|`cps`| 
+|![onlineips](https://static.openfintech.io/payment_providers/onlineips/icon.png?w=278&c=v0.59.26#w100) |[Online IPS](/payment-providers/onlineips/)|`onlineips`| 
+|![beonpay](https://static.openfintech.io/payment_providers/beonpay/icon.png?w=278&c=v0.59.26#w100) |[BeonPay](/payment-providers/beonpay/)|`beonpay`| 
+|![payecards](https://static.openfintech.io/payment_providers/payecards/icon.png?w=278&c=v0.59.26#w100) |[Payecards](/payment-providers/payecards/)|`payecards`| 
+|![ensopay](https://static.openfintech.io/payment_providers/ensopay/icon.png?w=278&c=v0.59.26#w100) |[EnsoPay](/payment-providers/ensopay/)|`ensopay`| 
+|![payrun](https://static.openfintech.io/payment_providers/payrun/icon.svg?w=278&c=v0.59.26#w100) |[PayRun](/payment-providers/payrun/)|`payrun`| 
+|![exbaseio](https://static.openfintech.io/payment_providers/exbaseio/icon.svg?w=278&c=v0.59.26#w100) |[EXBASE.IO](/payment-providers/exbaseio/)|`exbaseio`| 
+|![bankotkritie](https://static.openfintech.io/payment_providers/bankotkritie/icon.svg?w=278&c=v0.59.26#w100) |[Bank Otkritie](/payment-providers/bankotkritie/)|`bankotkritie`| 
+|![bp](https://static.openfintech.io/payment_providers/bp/icon.svg?w=278&c=v0.59.26#w100) |[BP](/payment-providers/bp/)|`bp`| 
+|![paycos](https://static.openfintech.io/payment_providers/paycos/icon.svg?w=278&c=v0.59.26#w100) |[PAYCOS](/payment-providers/paycos/)|`paycos`| 
+|![budpay](https://static.openfintech.io/payment_providers/budpay/icon.png?w=278&c=v0.59.26#w100) |[Budpay](/payment-providers/budpay/)|`budpay`| 
+|![paycash](https://static.openfintech.io/payment_providers/paycash/icon.png?w=278&c=v0.59.26#w100) |[PayCash](/payment-providers/paycash/)|`paycash`| 
+|![payler](https://static.openfintech.io/payment_providers/payler/icon.svg?w=278&c=v0.59.26#w100) |[Payler](/payment-providers/payler/)|`payler`| 
+|![paystudio](https://static.openfintech.io/payment_providers/paystudio/icon.png?w=278&c=v0.59.26#w100) |[PayStudio](/payment-providers/paystudio/)|`paystudio`| 
+|![contactpay](https://static.openfintech.io/payment_providers/contactpay/icon.png?w=278&c=v0.59.26#w100) |[ContactPay](/payment-providers/contactpay/)|`contactpay`| 
+|![paytiencecc](https://static.openfintech.io/payment_providers/paytiencecc/icon.png?w=278&c=v0.59.26#w100) |[Paytience.cc](/payment-providers/paytiencecc/)|`paytiencecc`| 
+|![chargemoney](https://static.openfintech.io/payment_providers/chargemoney/icon.png?w=278&c=v0.59.26#w100) |[ChargeMoney](/payment-providers/chargemoney/)|`chargemoney`| 
+|![tapanapi](https://static.openfintech.io/payment_providers/tapanapi/icon.svg?w=278&c=v0.59.26#w100) |[TapAnApi](/payment-providers/tapanapi/)|`tapanapi`| 
+|![millikart](https://static.openfintech.io/payment_providers/millikart/icon.png?w=278&c=v0.59.26#w100) |[MilliKart](/payment-providers/millikart/)|`millikart`| 
+|![dimocopayments](https://static.openfintech.io/payment_providers/dimocopayments/icon.png?w=278&c=v0.59.26#w100) |[DIMOCO Payments](/payment-providers/dimocopayments/)|`dimocopayments`| 
+|![leobank](https://static.openfintech.io/payment_providers/leobank/icon.png?w=278&c=v0.59.26#w100) |[LeoBank](/payment-providers/leobank/)|`leobank`| 
+|![bennupay](https://static.openfintech.io/payment_providers/bennupay/icon.png?w=278&c=v0.59.26#w100) |[bennupay](/payment-providers/bennupay/)|`bennupay`| 
  
 
 ## JSON Object 

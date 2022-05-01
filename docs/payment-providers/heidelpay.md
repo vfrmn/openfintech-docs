@@ -85,7 +85,7 @@ The list of supported [Payment Methods](/payment-methods/)
 |![postpay](https://static.openfintech.io/payment_methods/postpay/icon.png?w=278&c=v0.59.26#w100) |[postpay](/payment-methods/postpay/)|`postpay`| 
 |![bank_transfer_klarna](https://static.openfintech.io/payment_methods/bank_transfer_klarna/icon.svg?w=278&c=v0.59.26#w100) |[bank_transfer_klarna](/payment-methods/bank_transfer_klarna/)|`bank_transfer_klarna`| 
 |![oxxo](https://static.openfintech.io/payment_methods/oxxo/icon.svg?w=278&c=v0.59.26#w100) |[oxxo](/payment-methods/oxxo/)|`oxxo`| 
-|![7eleven](https://static.openfintech.io/payment_methods/7eleven/icon.svg?w=278&c=v0.59.26#w100) |[7eleven](/payment-methods/7eleven/)|`7eleven`| 
+|![7eleven](https://static.openfintech.io/payment_methods/7eleven/icon.png?w=278&c=v0.59.26#w100) |[7eleven](/payment-methods/7eleven/)|`7eleven`| 
 |![przelewy24](https://static.openfintech.io/payment_methods/przelewy24/icon.png?w=278&c=v0.59.26#w100) |[przelewy24](/payment-methods/przelewy24/)|`przelewy24`| 
 |![billpay](https://static.openfintech.io/payment_methods/billpay/icon.png?w=278&c=v0.59.26#w100) |[billpay](/payment-methods/billpay/)|`billpay`| 
 |![sofortbanking](https://static.openfintech.io/payment_methods/sofortbanking/icon.svg?w=278&c=v0.59.26#w100) |[sofortbanking](/payment-methods/sofortbanking/)|`sofortbanking`| 
